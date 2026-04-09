@@ -1,0 +1,4 @@
+In the Central region, total sales were $501,239.89 and total profit was $39,706.36.
+In the East region, total sales were $678,781.24 and total profit was $91,522.78.
+In the South region, total sales were $391,721.91 and total profit was $46,749.43.
+In the West region, total sales were $725,457.82 and total profit was $108,418.45.

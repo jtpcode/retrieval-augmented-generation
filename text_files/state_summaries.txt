@@ -1,0 +1,49 @@
+In Alabama, total sales were $19,510.64 and total profit was $5,786.83.
+In Arizona, total sales were $35,282.00 and total loss was $3,427.92.
+In Arkansas, total sales were $11,678.13 and total profit was $4,008.69.
+In California, total sales were $457,687.63 and total profit was $76,381.39.
+In Colorado, total sales were $32,108.12 and total loss was $6,527.86.
+In Connecticut, total sales were $13,384.36 and total profit was $3,511.49.
+In Delaware, total sales were $27,451.07 and total profit was $9,977.37.
+In District of Columbia, total sales were $2,865.02 and total profit was $1,059.59.
+In Florida, total sales were $89,473.71 and total loss was $3,399.30.
+In Georgia, total sales were $49,095.84 and total profit was $16,250.04.
+In Idaho, total sales were $4,382.49 and total profit was $826.72.
+In Illinois, total sales were $80,166.10 and total loss was $12,607.89.
+In Indiana, total sales were $53,555.36 and total profit was $18,382.94.
+In Iowa, total sales were $4,579.76 and total profit was $1,183.81.
+In Kansas, total sales were $2,914.31 and total profit was $836.44.
+In Kentucky, total sales were $36,591.75 and total profit was $11,199.70.
+In Louisiana, total sales were $9,217.03 and total profit was $2,196.10.
+In Maine, total sales were $1,270.53 and total profit was $454.49.
+In Maryland, total sales were $23,705.52 and total profit was $7,031.18.
+In Massachusetts, total sales were $28,634.43 and total profit was $6,785.50.
+In Michigan, total sales were $76,269.61 and total profit was $24,463.19.
+In Minnesota, total sales were $29,863.15 and total profit was $10,823.19.
+In Mississippi, total sales were $10,771.34 and total profit was $3,172.98.
+In Missouri, total sales were $22,205.15 and total profit was $6,436.21.
+In Montana, total sales were $5,589.35 and total profit was $1,833.33.
+In Nebraska, total sales were $7,464.93 and total profit was $2,037.09.
+In Nevada, total sales were $16,729.10 and total profit was $3,316.77.
+In New Hampshire, total sales were $7,292.52 and total profit was $1,706.50.
+In New Jersey, total sales were $35,764.31 and total profit was $9,772.91.
+In New Mexico, total sales were $4,783.52 and total profit was $1,157.12.
+In New York, total sales were $310,876.27 and total profit was $74,038.55.
+In North Carolina, total sales were $55,603.16 and total loss was $7,490.91.
+In North Dakota, total sales were $919.91 and total profit was $230.15.
+In Ohio, total sales were $78,258.14 and total loss was $16,971.38.
+In Oklahoma, total sales were $19,683.39 and total profit was $4,853.96.
+In Oregon, total sales were $17,431.15 and total loss was $1,190.47.
+In Pennsylvania, total sales were $116,511.91 and total loss was $15,559.96.
+In Rhode Island, total sales were $22,627.96 and total profit was $7,285.63.
+In South Carolina, total sales were $8,481.71 and total profit was $1,769.06.
+In South Dakota, total sales were $1,315.56 and total profit was $394.83.
+In Tennessee, total sales were $30,661.87 and total loss was $5,341.69.
+In Texas, total sales were $170,188.05 and total loss was $25,729.36.
+In Utah, total sales were $11,220.06 and total profit was $2,546.53.
+In Vermont, total sales were $8,929.37 and total profit was $2,244.98.
+In Virginia, total sales were $70,636.72 and total profit was $18,597.95.
+In Washington, total sales were $138,641.27 and total profit was $33,402.65.
+In West Virginia, total sales were $1,209.82 and total profit was $185.92.
+In Wisconsin, total sales were $32,114.61 and total profit was $8,401.80.
+In Wyoming, total sales were $1,603.14 and total profit was $100.20.
