@@ -1,531 +1,531 @@
-In Aberdeen, total sales were $25.50 and total profit was $6.63.
-In Abilene, total sales were $1.39 and total loss was $3.76.
-In Akron, total sales were $2,729.99 and total loss was $186.64.
-In Albuquerque, total sales were $2,220.16 and total profit was $634.09.
-In Alexandria, total sales were $5,519.57 and total profit was $318.62.
-In Allen, total sales were $290.21 and total loss was $39.88.
-In Allentown, total sales were $853.25 and total loss was $226.45.
-In Altoona, total sales were $20.45 and total loss was $1.18.
-In Amarillo, total sales were $3,773.06 and total loss was $387.97.
-In Anaheim, total sales were $7,986.87 and total profit was $1,234.00.
-In Andover, total sales were $435.85 and total profit was $124.19.
-In Ann Arbor, total sales were $889.27 and total profit was $228.92.
-In Antioch, total sales were $19.44 and total profit was $9.33.
-In Apopka, total sales were $904.55 and total profit was $54.36.
-In Apple Valley, total sales were $2,053.02 and total profit was $292.59.
-In Appleton, total sales were $1,671.31 and total profit was $554.77.
-In Arlington, total sales were $20,214.53 and total profit was $4,169.70.
-In Arlington Heights, total sales were $14.11 and total profit was $1.23.
-In Arvada, total sales were $503.40 and total profit was $59.86.
-In Asheville, total sales were $1,475.38 and total profit was $77.51.
-In Athens, total sales were $1,720.81 and total profit was $479.32.
-In Atlanta, total sales were $17,197.84 and total profit was $6,993.66.
-In Atlantic City, total sales were $23.36 and total profit was $11.68.
-In Auburn, total sales were $3,155.17 and total profit was $734.92.
-In Aurora, total sales were $11,656.48 and total loss was $2,691.74.
-In Austin, total sales were $6,057.98 and total loss was $20.39.
-In Avondale, total sales were $946.81 and total profit was $76.17.
-In Bakersfield, total sales were $1,377.29 and total profit was $187.92.
-In Baltimore, total sales were $6,156.84 and total profit was $1,676.20.
-In Bangor, total sales were $1,164.45 and total profit was $422.22.
-In Bartlett, total sales were $88.96 and total profit was $10.01.
-In Bayonne, total sales were $183.40 and total profit was $79.40.
-In Baytown, total sales were $10.37 and total profit was $3.63.
-In Beaumont, total sales were $472.12 and total profit was $59.12.
-In Bedford, total sales were $226.26 and total profit was $10.62.
-In Belleville, total sales were $1,891.60 and total profit was $283.65.
-In Bellevue, total sales were $103.62 and total profit was $37.05.
-In Bellingham, total sales were $3,790.24 and total profit was $610.59.
-In Bethlehem, total sales were $1,689.63 and total loss was $1,003.10.
-In Beverly, total sales were $2,583.19 and total profit was $654.92.
-In Billings, total sales were $8.29 and total profit was $2.69.
-In Bloomington, total sales were $1,567.74 and total loss was $249.36.
-In Boca Raton, total sales were $63.01 and total loss was $22.65.
-In Boise, total sales were $1,094.47 and total profit was $221.94.
-In Bolingbrook, total sales were $218.31 and total loss was $4.66.
-In Bossier City, total sales were $1,417.18 and total profit was $336.96.
-In Bowling Green, total sales were $2,077.38 and total profit was $217.06.
-In Boynton Beach, total sales were $469.58 and total profit was $50.66.
-In Bozeman, total sales were $43.66 and total profit was $20.81.
-In Brentwood, total sales were $5,090.11 and total profit was $1,216.81.
-In Bridgeton, total sales were $52.41 and total profit was $3.44.
-In Bristol, total sales were $1,251.18 and total profit was $81.64.
-In Broken Arrow, total sales were $2,439.53 and total profit was $575.52.
-In Broomfield, total sales were $793.50 and total profit was $62.45.
-In Brownsville, total sales were $1,292.23 and total profit was $202.07.
-In Bryan, total sales were $616.66 and total loss was $213.71.
-In Buffalo, total sales were $9,063.50 and total profit was $992.88.
-In Buffalo Grove, total sales were $831.40 and total loss was $89.65.
-In Bullhead City, total sales were $22.29 and total profit was $6.72.
-In Burbank, total sales were $3,247.16 and total profit was $764.53.
-In Burlington, total sales were $21,668.08 and total loss was $3,622.88.
-In Caldwell, total sales were $455.63 and total profit was $58.70.
-In Camarillo, total sales were $1,467.52 and total profit was $158.80.
-In Cambridge, total sales were $502.09 and total profit was $173.73.
-In Canton, total sales were $818.13 and total profit was $149.28.
-In Carlsbad, total sales were $419.34 and total profit was $157.77.
-In Carol Stream, total sales were $1,305.81 and total loss was $39.87.
-In Carrollton, total sales were $2,200.65 and total loss was $470.21.
-In Cary, total sales were $505.21 and total profit was $54.04.
-In Cedar Hill, total sales were $122.38 and total profit was $42.83.
-In Cedar Rapids, total sales were $278.40 and total profit was $80.74.
-In Champaign, total sales were $151.96 and total loss was $182.35.
-In Chandler, total sales were $1,076.75 and total profit was $81.46.
-In Chapel Hill, total sales were $14.02 and total profit was $4.73.
-In Charlotte, total sales were $13,693.34 and total loss was $429.78.
-In Charlottesville, total sales were $102.61 and total profit was $22.63.
-In Chattanooga, total sales were $988.80 and total profit was $27.19.
-In Chesapeake, total sales were $5,996.72 and total profit was $1,262.79.
-In Chester, total sales were $1,968.48 and total profit was $48.36.
-In Cheyenne, total sales were $1,603.14 and total profit was $100.20.
-In Chicago, total sales were $48,539.54 and total loss was $6,654.57.
-In Chico, total sales were $2,050.18 and total profit was $205.13.
-In Chula Vista, total sales were $1,041.62 and total profit was $248.43.
-In Cincinnati, total sales were $1,611.98 and total profit was $175.34.
-In Citrus Heights, total sales were $129.39 and total profit was $54.34.
-In Clarksville, total sales were $2,217.73 and total loss was $1,055.35.
-In Cleveland, total sales were $6,346.19 and total loss was $848.01.
-In Clifton, total sales were $336.82 and total profit was $98.59.
-In Clinton, total sales were $5,514.25 and total profit was $1,274.24.
-In Clovis, total sales were $111.42 and total profit was $11.64.
-In Coachella, total sales were $163.55 and total profit was $47.17.
-In College Station, total sales were $291.04 and total loss was $117.62.
-In Colorado Springs, total sales were $3,694.01 and total loss was $956.68.
-In Columbia, total sales were $25,283.32 and total profit was $5,606.12.
-In Columbus, total sales were $38,706.24 and total profit was $5,897.10.
-In Commerce City, total sales were $146.35 and total loss was $32.93.
-In Concord, total sales were $10,542.40 and total loss was $718.64.
-In Conroe, total sales were $111.67 and total profit was $6.98.
-In Conway, total sales were $301.96 and total profit was $45.29.
-In Coon Rapids, total sales were $503.13 and total profit was $136.45.
-In Coppell, total sales were $135.94 and total profit was $41.49.
-In Coral Gables, total sales were $64.25 and total profit was $22.36.
-In Coral Springs, total sales were $824.99 and total profit was $18.56.
-In Corpus Christi, total sales were $220.54 and total loss was $43.73.
-In Costa Mesa, total sales were $1,497.67 and total profit was $297.21.
-In Cottage Grove, total sales were $144.36 and total profit was $54.80.
-In Covington, total sales were $413.68 and total profit was $115.11.
-In Cranston, total sales were $4,024.92 and total profit was $637.50.
-In Cuyahoga Falls, total sales were $29.09 and total loss was $12.58.
-In Dallas, total sales were $20,131.93 and total loss was $2,846.53.
-In Danbury, total sales were $27.46 and total profit was $9.89.
-In Danville, total sales were $1,202.25 and total profit was $213.05.
-In Davis, total sales were $32.40 and total profit was $15.55.
-In Daytona Beach, total sales were $272.33 and total loss was $52.33.
-In Dearborn, total sales were $1,603.31 and total profit was $467.39.
-In Dearborn Heights, total sales were $1,051.57 and total profit was $140.89.
-In Decatur, total sales were $6,544.29 and total profit was $689.06.
-In Deer Park, total sales were $6.92 and total loss was $10.39.
-In Delray Beach, total sales were $242.54 and total profit was $29.05.
-In Deltona, total sales were $893.24 and total profit was $122.13.
-In Denver, total sales were $12,198.79 and total loss was $244.92.
-In Des Moines, total sales were $5,463.28 and total profit was $1,610.74.
-In Des Plaines, total sales were $1,493.21 and total loss was $236.77.
-In Detroit, total sales were $42,446.94 and total profit was $13,181.79.
-In Dover, total sales were $4,878.07 and total profit was $1,021.49.
-In Draper, total sales were $263.65 and total profit was $92.73.
-In Dublin, total sales were $2,401.16 and total loss was $349.93.
-In Dubuque, total sales were $1,687.30 and total profit was $477.67.
-In Durham, total sales were $879.96 and total profit was $116.87.
-In Eagan, total sales were $214.28 and total profit was $87.03.
-In East Orange, total sales were $377.27 and total profit was $174.62.
-In East Point, total sales were $268.40 and total profit was $102.01.
-In Eau Claire, total sales were $1,645.65 and total profit was $427.50.
-In Edinburg, total sales were $88.28 and total profit was $27.81.
-In Edmond, total sales were $959.55 and total profit was $243.10.
-In Edmonds, total sales were $2,523.69 and total profit was $634.25.
-In El Cajon, total sales were $865.62 and total profit was $52.69.
-In El Paso, total sales were $3,546.06 and total loss was $179.90.
-In Elkhart, total sales were $171.43 and total profit was $16.67.
-In Elmhurst, total sales were $891.63 and total loss was $212.13.
-In Elyria, total sales were $1.82 and total loss was $1.40.
-In Encinitas, total sales were $591.98 and total profit was $71.06.
-In Englewood, total sales were $124.06 and total profit was $13.75.
-In Escondido, total sales were $94.55 and total profit was $27.75.
-In Eugene, total sales were $1,465.03 and total profit was $134.04.
-In Evanston, total sales were $1,753.80 and total profit was $411.88.
-In Everett, total sales were $5,665.73 and total profit was $1,361.48.
-In Fairfield, total sales were $9,483.86 and total profit was $1,210.31.
-In Fargo, total sales were $919.91 and total profit was $230.15.
-In Farmington, total sales were $718.72 and total profit was $169.41.
-In Fayetteville, total sales were $6,925.93 and total profit was $1,818.67.
-In Florence, total sales were $7,621.72 and total profit was $2,168.97.
-In Fort Collins, total sales were $935.25 and total loss was $252.69.
-In Fort Lauderdale, total sales were $4,929.53 and total loss was $161.36.
-In Fort Worth, total sales were $6,602.71 and total profit was $298.73.
-In Frankfort, total sales were $97.63 and total loss was $26.06.
-In Franklin, total sales were $11,257.04 and total profit was $1,664.87.
-In Freeport, total sales were $739.15 and total loss was $20.09.
-In Fremont, total sales were $1,119.01 and total profit was $179.47.
-In Fresno, total sales were $7,888.53 and total profit was $948.27.
-In Frisco, total sales were $57.50 and total loss was $18.80.
-In Gaithersburg, total sales were $405.92 and total profit was $105.54.
-In Garden City, total sales were $312.38 and total profit was $90.63.
-In Garland, total sales were $67.70 and total loss was $32.37.
-In Gastonia, total sales were $895.06 and total loss was $14.74.
-In Georgetown, total sales were $1,786.42 and total profit was $402.76.
-In Gilbert, total sales were $4,172.38 and total profit was $138.25.
-In Gladstone, total sales were $164.34 and total profit was $52.59.
-In Glendale, total sales were $2,917.86 and total profit was $182.86.
-In Glenview, total sales were $158.38 and total profit was $13.86.
-In Goldsboro, total sales were $34.94 and total profit was $3.06.
-In Grand Island, total sales were $15.96 and total profit was $7.98.
-In Grand Prairie, total sales were $1,012.49 and total loss was $85.23.
-In Grand Rapids, total sales were $526.13 and total profit was $233.92.
-In Grapevine, total sales were $41.53 and total profit was $8.77.
-In Great Falls, total sales were $4,605.58 and total profit was $1,582.71.
-In Greeley, total sales were $30.35 and total profit was $10.36.
-In Green Bay, total sales were $527.32 and total profit was $228.48.
-In Greensboro, total sales were $2,406.78 and total loss was $122.95.
-In Greenville, total sales were $2,117.83 and total loss was $548.99.
-In Greenwood, total sales were $1,665.05 and total profit was $471.73.
-In Gresham, total sales were $2,133.42 and total profit was $150.86.
-In Grove City, total sales were $123.59 and total profit was $13.20.
-In Gulfport, total sales were $166.50 and total profit was $77.58.
-In Hackensack, total sales were $1,456.16 and total profit was $451.25.
-In Hagerstown, total sales were $43.80 and total profit was $20.59.
-In Haltom City, total sales were $269.33 and total profit was $51.96.
-In Hamilton, total sales were $328.22 and total loss was $9.39.
-In Hampton, total sales were $2,722.26 and total profit was $953.83.
-In Harlingen, total sales were $471.40 and total profit was $18.13.
-In Harrisonburg, total sales were $4,388.71 and total profit was $889.52.
-In Hattiesburg, total sales were $1,722.84 and total profit was $582.07.
-In Helena, total sales were $443.84 and total profit was $74.62.
-In Hempstead, total sales were $2,589.59 and total profit was $629.06.
-In Henderson, total sales were $17,549.07 and total profit was $4,911.86.
-In Hendersonville, total sales were $319.54 and total loss was $45.39.
-In Hesperia, total sales were $1,213.17 and total profit was $98.53.
-In Hialeah, total sales were $2,338.95 and total loss was $179.23.
-In Hickory, total sales were $40.76 and total loss was $1.10.
-In Highland Park, total sales were $2,035.10 and total loss was $169.94.
-In Hillsboro, total sales were $87.84 and total profit was $1.55.
-In Holland, total sales were $137.86 and total profit was $66.66.
-In Hollywood, total sales were $1,070.47 and total profit was $108.20.
-In Holyoke, total sales were $301.96 and total profit was $60.39.
-In Homestead, total sales were $132.55 and total profit was $22.33.
-In Hoover, total sales were $525.85 and total profit was $18.72.
-In Hot Springs, total sales were $245.83 and total profit was $62.08.
-In Houston, total sales were $64,504.76 and total loss was $10,153.55.
-In Huntington Beach, total sales were $2,527.82 and total profit was $880.04.
-In Huntsville, total sales were $9,194.99 and total profit was $161.83.
-In Independence, total sales were $2,417.37 and total profit was $975.66.
-In Indianapolis, total sales were $9,306.42 and total profit was $2,741.65.
-In Inglewood, total sales were $3,479.33 and total profit was $1,026.70.
-In Iowa City, total sales were $9.99 and total profit was $4.50.
-In Irving, total sales were $605.50 and total loss was $100.51.
-In Jackson, total sales were $24,963.86 and total profit was $7,581.68.
-In Jacksonville, total sales were $44,713.18 and total loss was $2,323.84.
-In Jamestown, total sales were $4,708.79 and total profit was $1,285.77.
-In Jefferson City, total sales were $86.62 and total profit was $8.66.
-In Johnson City, total sales were $765.85 and total profit was $11.86.
-In Jonesboro, total sales were $2,915.32 and total profit was $801.11.
-In Jupiter, total sales were $2.06 and total profit was $0.15.
-In Keller, total sales were $6.00 and total profit was $2.10.
-In Kenner, total sales were $89.32 and total profit was $19.80.
-In Kenosha, total sales were $3,906.73 and total profit was $1,028.07.
-In Kent, total sales were $1,697.56 and total profit was $591.80.
-In Kirkwood, total sales were $241.34 and total profit was $47.13.
-In Kissimmee, total sales were $751.98 and total profit was $84.60.
-In Knoxville, total sales were $3,928.17 and total loss was $1,165.08.
-In La Crosse, total sales were $830.41 and total profit was $272.08.
-In La Mesa, total sales were $367.53 and total profit was $114.39.
-In La Porte, total sales were $1,051.73 and total profit was $191.99.
-In La Quinta, total sales were $46.32 and total profit was $18.06.
-In Lafayette, total sales were $25,036.20 and total profit was $10,018.39.
-In Laguna Niguel, total sales were $290.98 and total profit was $41.98.
-In Lake Charles, total sales were $547.41 and total profit was $241.26.
-In Lake Elsinore, total sales were $283.92 and total profit was $17.75.
-In Lake Forest, total sales were $1,625.54 and total profit was $327.53.
-In Lakeland, total sales were $5,606.89 and total loss was $188.64.
-In Lakeville, total sales were $4,260.95 and total profit was $1,346.60.
-In Lakewood, total sales were $18,192.05 and total profit was $3,234.03.
-In Lancaster, total sales were $9,891.46 and total loss was $7,239.07.
-In Lansing, total sales were $1,610.29 and total profit was $412.87.
-In Laredo, total sales were $1,024.34 and total loss was $54.61.
-In Las Cruces, total sales were $98.77 and total profit was $43.94.
-In Las Vegas, total sales were $1,834.02 and total profit was $332.44.
-In Laurel, total sales were $152.59 and total profit was $46.17.
-In Lawrence, total sales were $7,654.19 and total profit was $2,382.15.
-In Lawton, total sales were $1,057.49 and total profit was $235.51.
-In Layton, total sales were $4.96 and total profit was $2.33.
-In League City, total sales were $875.37 and total loss was $31.35.
-In Lebanon, total sales were $488.90 and total profit was $83.81.
-In Lehi, total sales were $1,516.73 and total profit was $451.66.
-In Leominster, total sales were $217.49 and total profit was $79.50.
-In Lewiston, total sales were $115.66 and total profit was $35.62.
-In Lincoln Park, total sales were $387.60 and total profit was $68.37.
-In Linden, total sales were $115.36 and total profit was $49.60.
-In Lindenhurst, total sales were $55.48 and total profit was $26.63.
-In Little Rock, total sales were $3,560.35 and total profit was $1,154.67.
-In Littleton, total sales were $72.29 and total loss was $98.80.
-In Lodi, total sales were $136.98 and total profit was $44.49.
-In Logan, total sales were $280.28 and total profit was $46.96.
-In Long Beach, total sales were $13,455.03 and total profit was $2,108.93.
-In Longmont, total sales were $915.09 and total profit was $34.83.
-In Longview, total sales were $119.21 and total profit was $38.90.
-In Lorain, total sales were $2,015.11 and total loss was $632.92.
-In Los Angeles, total sales were $175,851.34 and total profit was $30,440.76.
-In Louisville, total sales were $12,345.81 and total loss was $1,430.31.
-In Loveland, total sales were $20.96 and total profit was $4.48.
-In Lowell, total sales were $4,837.93 and total profit was $1,312.57.
-In Lubbock, total sales were $592.56 and total profit was $147.14.
-In Macon, total sales were $364.01 and total profit was $144.85.
-In Madison, total sales were $5,346.79 and total profit was $1,123.66.
-In Malden, total sales were $228.38 and total profit was $31.17.
-In Manchester, total sales were $2,126.28 and total profit was $600.51.
-In Manhattan, total sales were $273.96 and total profit was $10.96.
-In Mansfield, total sales were $558.88 and total loss was $66.79.
-In Manteca, total sales were $452.18 and total profit was $172.24.
-In Maple Grove, total sales were $882.87 and total profit was $385.01.
-In Margate, total sales were $15.55 and total profit was $2.33.
-In Marietta, total sales were $2,938.62 and total profit was $512.15.
-In Marion, total sales were $3,369.35 and total loss was $380.36.
-In Marlborough, total sales were $206.64 and total profit was $67.61.
-In Marysville, total sales were $102.18 and total profit was $3.32.
-In Mason, total sales were $94.26 and total loss was $4.24.
-In Mcallen, total sales were $866.72 and total loss was $163.87.
-In Medford, total sales were $90.22 and total profit was $19.70.
-In Medina, total sales were $2,477.72 and total loss was $1,343.04.
-In Melbourne, total sales were $95.62 and total profit was $9.56.
-In Memphis, total sales were $5,942.34 and total loss was $1,479.04.
-In Mentor, total sales were $693.13 and total loss was $123.27.
-In Meriden, total sales were $1,550.68 and total profit was $470.22.
-In Meridian, total sales were $329.05 and total profit was $95.21.
-In Mesa, total sales were $4,037.74 and total loss was $559.23.
-In Mesquite, total sales were $52.15 and total loss was $87.62.
-In Miami, total sales were $8,673.07 and total loss was $1,150.37.
-In Middletown, total sales were $1,154.61 and total profit was $157.62.
-In Midland, total sales were $5,291.51 and total profit was $2,293.68.
-In Milford, total sales were $961.74 and total profit was $319.05.
-In Milwaukee, total sales were $11,410.22 and total profit was $2,793.09.
-In Minneapolis, total sales were $16,870.54 and total profit was $6,824.58.
-In Miramar, total sales were $1,531.19 and total profit was $32.28.
-In Mishawaka, total sales were $776.24 and total profit was $96.59.
-In Mission Viejo, total sales were $775.99 and total profit was $151.06.
-In Missoula, total sales were $487.98 and total profit was $152.50.
-In Missouri City, total sales were $6.37 and total loss was $9.55.
-In Mobile, total sales were $5,462.99 and total profit was $2,175.83.
-In Modesto, total sales were $326.15 and total profit was $19.94.
-In Monroe, total sales were $2,970.43 and total profit was $696.62.
-In Montebello, total sales were $27.88 and total profit was $3.90.
-In Montgomery, total sales were $3,722.73 and total profit was $834.66.
-In Moorhead, total sales were $543.86 and total profit was $101.41.
-In Moreno Valley, total sales were $1,262.47 and total profit was $353.63.
-In Morgan Hill, total sales were $545.01 and total profit was $7.85.
-In Morristown, total sales were $5,033.10 and total profit was $1,838.23.
-In Mount Pleasant, total sales were $563.08 and total profit was $93.52.
-In Mount Vernon, total sales were $2,119.63 and total profit was $662.51.
-In Murfreesboro, total sales were $337.33 and total profit was $15.69.
-In Murray, total sales were $410.94 and total profit was $131.53.
-In Murrieta, total sales were $484.65 and total profit was $92.08.
-In Muskogee, total sales were $1,721.70 and total profit was $442.60.
-In Naperville, total sales were $1,288.30 and total loss was $146.53.
-In Nashua, total sales were $35.94 and total profit was $13.51.
-In Nashville, total sales were $6,070.86 and total loss was $837.49.
-In New Albany, total sales were $209.55 and total profit was $73.35.
-In New Bedford, total sales were $235.97 and total profit was $50.49.
-In New Brunswick, total sales were $14.77 and total profit was $7.16.
-In New Castle, total sales were $84.61 and total profit was $23.08.
-In New Rochelle, total sales were $1,255.23 and total profit was $368.41.
-In New York City, total sales were $256,368.16 and total profit was $62,036.98.
-In Newark, total sales were $28,576.12 and total profit was $5,793.76.
-In Newport News, total sales were $3,321.95 and total profit was $1,197.05.
-In Niagara Falls, total sales were $199.84 and total profit was $59.24.
-In Noblesville, total sales were $3,091.18 and total profit was $353.31.
-In Norfolk, total sales were $17.43 and total profit was $8.02.
-In Normal, total sales were $366.74 and total loss was $110.02.
-In Norman, total sales were $1,351.33 and total profit was $269.53.
-In North Charleston, total sales were $284.25 and total profit was $9.67.
-In North Las Vegas, total sales were $9,801.00 and total profit was $2,247.69.
-In North Miami, total sales were $22.13 and total profit was $3.08.
-In Norwich, total sales were $414.04 and total profit was $164.09.
-In Oak Park, total sales were $591.05 and total profit was $152.04.
-In Oakland, total sales were $5,964.42 and total profit was $834.10.
-In Oceanside, total sales were $4,350.74 and total profit was $772.68.
-In Odessa, total sales were $976.12 and total loss was $69.71.
-In Oklahoma City, total sales were $6,596.82 and total profit was $1,580.76.
-In Olathe, total sales were $895.79 and total profit was $207.41.
-In Olympia, total sales were $1,020.45 and total profit was $139.63.
-In Omaha, total sales were $6,312.53 and total profit was $1,841.63.
-In Ontario, total sales were $283.92 and total loss was $46.14.
-In Orange, total sales were $211.11 and total profit was $66.57.
-In Orem, total sales were $2,994.09 and total profit was $514.63.
-In Orland Park, total sales were $339.96 and total profit was $67.99.
-In Orlando, total sales were $1,740.08 and total profit was $377.73.
-In Ormond Beach, total sales were $2.81 and total loss was $1.97.
-In Oswego, total sales were $321.98 and total loss was $536.13.
-In Overland Park, total sales were $606.91 and total profit was $203.52.
-In Owensboro, total sales were $71.18 and total profit was $27.64.
-In Oxnard, total sales were $1,558.10 and total profit was $346.46.
-In Palatine, total sales were $116.31 and total profit was $23.26.
-In Palm Coast, total sales were $274.43 and total profit was $17.66.
-In Park Ridge, total sales were $685.00 and total loss was $238.45.
-In Parker, total sales were $1,067.94 and total loss was $164.19.
-In Parma, total sales were $3,879.76 and total profit was $31.06.
-In Pasadena, total sales were $6,590.15 and total profit was $89.87.
-In Pasco, total sales were $2,201.11 and total profit was $357.52.
-In Passaic, total sales were $1,562.09 and total profit was $356.82.
-In Paterson, total sales were $2,243.21 and total profit was $740.49.
-In Pearland, total sales were $495.00 and total profit was $39.41.
-In Pembroke Pines, total sales were $1,714.38 and total loss was $72.45.
-In Pensacola, total sales were $2.21 and total loss was $1.48.
-In Peoria, total sales were $1,842.83 and total loss was $127.87.
-In Perth Amboy, total sales were $1,717.08 and total profit was $633.64.
-In Pharr, total sales were $1,540.71 and total loss was $237.55.
-In Philadelphia, total sales were $109,077.01 and total loss was $13,837.77.
-In Phoenix, total sales were $11,000.26 and total loss was $2,790.88.
-In Pico Rivera, total sales were $145.90 and total profit was $62.74.
-In Pine Bluff, total sales were $212.91 and total profit was $70.20.
-In Plainfield, total sales were $4,526.85 and total profit was $1,235.67.
-In Plano, total sales were $3,530.37 and total loss was $383.06.
-In Plantation, total sales were $1,436.84 and total profit was $12.04.
-In Pleasant Grove, total sales were $2,138.18 and total profit was $580.65.
-In Pocatello, total sales were $1,344.94 and total profit was $181.36.
-In Pomona, total sales were $1,482.50 and total profit was $150.30.
-In Pompano Beach, total sales were $90.44 and total profit was $15.01.
-In Port Arthur, total sales were $737.05 and total profit was $105.78.
-In Port Orange, total sales were $7.82 and total profit was $2.93.
-In Port Saint Lucie, total sales were $248.95 and total profit was $4.45.
-In Portage, total sales were $16.28 and total profit was $6.51.
-In Portland, total sales were $4,051.87 and total profit was $9.76.
-In Providence, total sales were $15,980.65 and total profit was $5,505.66.
-In Provo, total sales were $2,761.23 and total profit was $388.57.
-In Pueblo, total sales were $1,686.94 and total loss was $900.97.
-In Quincy, total sales were $1,276.46 and total profit was $347.09.
-In Raleigh, total sales were $4,507.54 and total profit was $472.59.
-In Rancho Cucamonga, total sales were $231.85 and total profit was $73.74.
-In Rapid City, total sales were $152.64 and total profit was $44.77.
-In Reading, total sales were $873.71 and total loss was $268.76.
-In Redding, total sales were $333.58 and total profit was $25.02.
-In Redlands, total sales were $2,891.02 and total profit was $454.16.
-In Redmond, total sales were $1,098.26 and total loss was $153.72.
-In Redondo Beach, total sales were $1,959.80 and total profit was $176.43.
-In Redwood City, total sales were $41.90 and total profit was $14.14.
-In Reno, total sales were $644.06 and total profit was $115.05.
-In Renton, total sales were $1,242.63 and total profit was $185.43.
-In Revere, total sales were $833.26 and total profit was $258.84.
-In Richardson, total sales were $1,288.46 and total loss was $24.49.
-In Richmond, total sales were $18,137.93 and total profit was $5,567.25.
-In Rio Rancho, total sales were $1,114.19 and total profit was $119.59.
-In Riverside, total sales were $1,944.25 and total profit was $374.73.
-In Rochester, total sales were $7,974.53 and total profit was $1,743.42.
-In Rochester Hills, total sales were $132.52 and total profit was $54.33.
-In Rock Hill, total sales were $11.85 and total profit was $3.79.
-In Rockford, total sales were $3,166.23 and total loss was $1,149.51.
-In Rockville, total sales were $469.77 and total profit was $133.21.
-In Rogers, total sales were $40.41 and total profit was $18.59.
-In Rome, total sales were $534.85 and total profit was $154.21.
-In Romeoville, total sales were $8.95 and total loss was $14.77.
-In Roseville, total sales were $3,588.63 and total profit was $1,253.39.
-In Roswell, total sales were $6,652.32 and total profit was $2,427.44.
-In Round Rock, total sales were $4,854.05 and total loss was $1,183.43.
-In Royal Oak, total sales were $35.34 and total profit was $16.96.
-In Sacramento, total sales were $7,311.28 and total profit was $2,069.69.
-In Saginaw, total sales were $395.86 and total profit was $77.18.
-In Saint Charles, total sales were $1,659.65 and total profit was $311.48.
-In Saint Cloud, total sales were $1,331.82 and total profit was $469.61.
-In Saint Louis, total sales were $285.96 and total profit was $98.55.
-In Saint Paul, total sales were $192.83 and total profit was $24.88.
-In Saint Peters, total sales were $697.16 and total profit was $146.40.
-In Saint Petersburg, total sales were $1,690.79 and total profit was $151.98.
-In Salem, total sales were $3,444.24 and total profit was $270.69.
-In Salinas, total sales were $728.89 and total profit was $270.52.
-In Salt Lake City, total sales were $802.78 and total profit was $329.26.
-In San Angelo, total sales were $650.64 and total loss was $58.55.
-In San Antonio, total sales were $21,843.53 and total loss was $7,299.05.
-In San Bernardino, total sales were $979.30 and total profit was $69.98.
-In San Clemente, total sales were $90.06 and total profit was $42.54.
-In San Diego, total sales were $47,521.03 and total profit was $6,377.20.
-In San Francisco, total sales were $112,669.09 and total profit was $17,507.39.
-In San Gabriel, total sales were $2,061.01 and total profit was $290.90.
-In San Jose, total sales were $6,071.23 and total profit was $1,216.06.
-In San Luis Obispo, total sales were $3.62 and total profit was $1.19.
-In San Marcos, total sales were $108.44 and total loss was $19.34.
-In San Mateo, total sales were $75.18 and total profit was $35.33.
-In Sandy Springs, total sales were $1,997.03 and total profit was $520.59.
-In Sanford, total sales were $225.55 and total loss was $11.83.
-In Santa Ana, total sales were $3,366.31 and total profit was $836.75.
-In Santa Barbara, total sales were $4,289.23 and total profit was $457.29.
-In Santa Clara, total sales were $222.19 and total profit was $76.00.
-In Santa Fe, total sales were $100.92 and total profit was $20.69.
-In Santa Maria, total sales were $115.44 and total profit was $30.01.
-In Scottsdale, total sales were $1,466.31 and total loss was $89.49.
-In Seattle, total sales were $119,540.74 and total profit was $29,156.10.
-In Sheboygan, total sales were $79.74 and total profit was $34.34.
-In Shelton, total sales were $73.33 and total profit was $21.41.
-In Sierra Vista, total sales were $76.07 and total profit was $16.83.
-In Sioux Falls, total sales were $1,137.42 and total profit was $343.43.
-In Skokie, total sales were $568.83 and total loss was $346.87.
-In Smyrna, total sales were $3,238.89 and total profit was $826.70.
-In South Bend, total sales were $1,238.33 and total profit was $279.55.
-In Southaven, total sales were $1,455.39 and total profit was $412.89.
-In Sparks, total sales were $2,561.96 and total profit was $228.54.
-In Spokane, total sales were $2,027.92 and total profit was $172.23.
-In Springdale, total sales were $4.30 and total profit was $1.42.
-In Springfield, total sales were $43,054.34 and total profit was $6,200.70.
-In Sterling Heights, total sales were $110.04 and total profit was $33.07.
-In Stockton, total sales were $1,227.60 and total profit was $339.53.
-In Suffolk, total sales were $1,597.90 and total profit was $389.81.
-In Summerville, total sales were $406.94 and total profit was $196.91.
-In Sunnyvale, total sales were $636.21 and total profit was $107.51.
-In Superior, total sales were $1,299.73 and total profit was $514.08.
-In Tallahassee, total sales were $7,250.67 and total profit was $392.71.
-In Tamarac, total sales were $1,413.51 and total loss was $351.90.
-In Tampa, total sales were $5,196.08 and total loss was $325.24.
-In Taylor, total sales were $353.70 and total profit was $44.87.
-In Temecula, total sales were $808.67 and total profit was $101.89.
-In Tempe, total sales were $1,070.30 and total profit was $95.45.
-In Texarkana, total sales were $654.24 and total profit was $163.37.
-In Texas City, total sales were $790.97 and total profit was $20.22.
-In The Colony, total sales were $142.16 and total profit was $31.66.
-In Thomasville, total sales were $151.29 and total profit was $33.39.
-In Thornton, total sales were $765.25 and total profit was $140.84.
-In Thousand Oaks, total sales were $238.80 and total profit was $99.91.
-In Tigard, total sales were $1,393.78 and total loss was $216.29.
-In Tinley Park, total sales were $22.29 and total loss was $8.92.
-In Toledo, total sales were $4,466.05 and total loss was $340.00.
-In Torrance, total sales were $3,132.27 and total profit was $545.15.
-In Trenton, total sales were $1,765.20 and total profit was $652.10.
-In Troy, total sales were $4,507.09 and total loss was $544.15.
-In Tucson, total sales were $6,313.02 and total loss was $64.97.
-In Tulsa, total sales were $5,556.97 and total profit was $1,506.93.
-In Tuscaloosa, total sales were $175.70 and total profit was $51.01.
-In Twin Falls, total sales were $1,148.81 and total profit was $266.16.
-In Tyler, total sales were $347.21 and total loss was $443.71.
-In Urbandale, total sales were $149.12 and total profit was $57.72.
-In Utica, total sales were $655.04 and total profit was $188.56.
-In Vacaville, total sales were $423.28 and total profit was $110.05.
-In Vallejo, total sales were $1,221.41 and total profit was $336.04.
-In Vancouver, total sales were $686.84 and total profit was $75.45.
-In Vineland, total sales were $647.97 and total profit was $62.25.
-In Virginia Beach, total sales were $5,752.13 and total profit was $2,024.88.
-In Visalia, total sales were $318.78 and total profit was $88.05.
-In Waco, total sales were $606.11 and total loss was $520.10.
-In Warner Robins, total sales were $434.80 and total profit was $53.69.
-In Warwick, total sales were $2,426.84 and total profit was $1,063.80.
-In Washington, total sales were $2,865.02 and total profit was $1,059.59.
-In Waterbury, total sales were $1,326.06 and total profit was $338.94.
-In Waterloo, total sales were $30.32 and total profit was $11.82.
-In Watertown, total sales were $4,045.00 and total profit was $907.01.
-In Waukesha, total sales were $54.50 and total profit was $14.17.
-In Wausau, total sales were $317.48 and total profit was $90.43.
-In Waynesboro, total sales were $3,058.77 and total profit was $603.39.
-In West Allis, total sales were $250.48 and total profit was $28.37.
-In West Jordan, total sales were $311.85 and total profit was $102.67.
-In West Palm Beach, total sales were $141.33 and total profit was $31.61.
-In Westfield, total sales were $519.72 and total profit was $153.18.
-In Westland, total sales were $2,057.98 and total profit was $389.60.
-In Westminster, total sales were $3,826.65 and total profit was $763.69.
-In Wheeling, total sales were $1,946.97 and total loss was $107.40.
-In Whittier, total sales were $444.77 and total profit was $44.48.
-In Wichita, total sales were $825.27 and total profit was $323.93.
-In Wilmington, total sales were $7,297.06 and total profit was $1,947.70.
-In Wilson, total sales were $368.73 and total loss was $14.34.
-In Woodbury, total sales were $607.65 and total profit was $196.10.
-In Woodland, total sales were $264.66 and total profit was $33.38.
-In Woodstock, total sales were $1,143.90 and total profit was $79.99.
-In Woonsocket, total sales were $195.55 and total profit was $78.68.
-In Yonkers, total sales were $7,657.67 and total profit was $2,767.76.
-In York, total sales were $817.98 and total loss was $102.17.
-In Yucaipa, total sales were $50.80 and total profit was $13.21.
-In Yuma, total sales were $840.87 and total loss was $465.99.
+In Aberdeen city, total sales were $25.50 and total profit was $6.63.
+In Abilene city, total sales were $1.39 and total loss was $3.76.
+In Akron city, total sales were $2,729.99 and total loss was $186.64.
+In Albuquerque city, total sales were $2,220.16 and total profit was $634.09.
+In Alexandria city, total sales were $5,519.57 and total profit was $318.62.
+In Allen city, total sales were $290.21 and total loss was $39.88.
+In Allentown city, total sales were $853.25 and total loss was $226.45.
+In Altoona city, total sales were $20.45 and total loss was $1.18.
+In Amarillo city, total sales were $3,773.06 and total loss was $387.97.
+In Anaheim city, total sales were $7,986.87 and total profit was $1,234.00.
+In Andover city, total sales were $435.85 and total profit was $124.19.
+In Ann Arbor city, total sales were $889.27 and total profit was $228.92.
+In Antioch city, total sales were $19.44 and total profit was $9.33.
+In Apopka city, total sales were $904.55 and total profit was $54.36.
+In Apple Valley city, total sales were $2,053.02 and total profit was $292.59.
+In Appleton city, total sales were $1,671.31 and total profit was $554.77.
+In Arlington city, total sales were $20,214.53 and total profit was $4,169.70.
+In Arlington Heights city, total sales were $14.11 and total profit was $1.23.
+In Arvada city, total sales were $503.40 and total profit was $59.86.
+In Asheville city, total sales were $1,475.38 and total profit was $77.51.
+In Athens city, total sales were $1,720.81 and total profit was $479.32.
+In Atlanta city, total sales were $17,197.84 and total profit was $6,993.66.
+In Atlantic City city, total sales were $23.36 and total profit was $11.68.
+In Auburn city, total sales were $3,155.17 and total profit was $734.92.
+In Aurora city, total sales were $11,656.48 and total loss was $2,691.74.
+In Austin city, total sales were $6,057.98 and total loss was $20.39.
+In Avondale city, total sales were $946.81 and total profit was $76.17.
+In Bakersfield city, total sales were $1,377.29 and total profit was $187.92.
+In Baltimore city, total sales were $6,156.84 and total profit was $1,676.20.
+In Bangor city, total sales were $1,164.45 and total profit was $422.22.
+In Bartlett city, total sales were $88.96 and total profit was $10.01.
+In Bayonne city, total sales were $183.40 and total profit was $79.40.
+In Baytown city, total sales were $10.37 and total profit was $3.63.
+In Beaumont city, total sales were $472.12 and total profit was $59.12.
+In Bedford city, total sales were $226.26 and total profit was $10.62.
+In Belleville city, total sales were $1,891.60 and total profit was $283.65.
+In Bellevue city, total sales were $103.62 and total profit was $37.05.
+In Bellingham city, total sales were $3,790.24 and total profit was $610.59.
+In Bethlehem city, total sales were $1,689.63 and total loss was $1,003.10.
+In Beverly city, total sales were $2,583.19 and total profit was $654.92.
+In Billings city, total sales were $8.29 and total profit was $2.69.
+In Bloomington city, total sales were $1,567.74 and total loss was $249.36.
+In Boca Raton city, total sales were $63.01 and total loss was $22.65.
+In Boise city, total sales were $1,094.47 and total profit was $221.94.
+In Bolingbrook city, total sales were $218.31 and total loss was $4.66.
+In Bossier City city, total sales were $1,417.18 and total profit was $336.96.
+In Bowling Green city, total sales were $2,077.38 and total profit was $217.06.
+In Boynton Beach city, total sales were $469.58 and total profit was $50.66.
+In Bozeman city, total sales were $43.66 and total profit was $20.81.
+In Brentwood city, total sales were $5,090.11 and total profit was $1,216.81.
+In Bridgeton city, total sales were $52.41 and total profit was $3.44.
+In Bristol city, total sales were $1,251.18 and total profit was $81.64.
+In Broken Arrow city, total sales were $2,439.53 and total profit was $575.52.
+In Broomfield city, total sales were $793.50 and total profit was $62.45.
+In Brownsville city, total sales were $1,292.23 and total profit was $202.07.
+In Bryan city, total sales were $616.66 and total loss was $213.71.
+In Buffalo city, total sales were $9,063.50 and total profit was $992.88.
+In Buffalo Grove city, total sales were $831.40 and total loss was $89.65.
+In Bullhead City city, total sales were $22.29 and total profit was $6.72.
+In Burbank city, total sales were $3,247.16 and total profit was $764.53.
+In Burlington city, total sales were $21,668.08 and total loss was $3,622.88.
+In Caldwell city, total sales were $455.63 and total profit was $58.70.
+In Camarillo city, total sales were $1,467.52 and total profit was $158.80.
+In Cambridge city, total sales were $502.09 and total profit was $173.73.
+In Canton city, total sales were $818.13 and total profit was $149.28.
+In Carlsbad city, total sales were $419.34 and total profit was $157.77.
+In Carol Stream city, total sales were $1,305.81 and total loss was $39.87.
+In Carrollton city, total sales were $2,200.65 and total loss was $470.21.
+In Cary city, total sales were $505.21 and total profit was $54.04.
+In Cedar Hill city, total sales were $122.38 and total profit was $42.83.
+In Cedar Rapids city, total sales were $278.40 and total profit was $80.74.
+In Champaign city, total sales were $151.96 and total loss was $182.35.
+In Chandler city, total sales were $1,076.75 and total profit was $81.46.
+In Chapel Hill city, total sales were $14.02 and total profit was $4.73.
+In Charlotte city, total sales were $13,693.34 and total loss was $429.78.
+In Charlottesville city, total sales were $102.61 and total profit was $22.63.
+In Chattanooga city, total sales were $988.80 and total profit was $27.19.
+In Chesapeake city, total sales were $5,996.72 and total profit was $1,262.79.
+In Chester city, total sales were $1,968.48 and total profit was $48.36.
+In Cheyenne city, total sales were $1,603.14 and total profit was $100.20.
+In Chicago city, total sales were $48,539.54 and total loss was $6,654.57.
+In Chico city, total sales were $2,050.18 and total profit was $205.13.
+In Chula Vista city, total sales were $1,041.62 and total profit was $248.43.
+In Cincinnati city, total sales were $1,611.98 and total profit was $175.34.
+In Citrus Heights city, total sales were $129.39 and total profit was $54.34.
+In Clarksville city, total sales were $2,217.73 and total loss was $1,055.35.
+In Cleveland city, total sales were $6,346.19 and total loss was $848.01.
+In Clifton city, total sales were $336.82 and total profit was $98.59.
+In Clinton city, total sales were $5,514.25 and total profit was $1,274.24.
+In Clovis city, total sales were $111.42 and total profit was $11.64.
+In Coachella city, total sales were $163.55 and total profit was $47.17.
+In College Station city, total sales were $291.04 and total loss was $117.62.
+In Colorado Springs city, total sales were $3,694.01 and total loss was $956.68.
+In Columbia city, total sales were $25,283.32 and total profit was $5,606.12.
+In Columbus city, total sales were $38,706.24 and total profit was $5,897.10.
+In Commerce City city, total sales were $146.35 and total loss was $32.93.
+In Concord city, total sales were $10,542.40 and total loss was $718.64.
+In Conroe city, total sales were $111.67 and total profit was $6.98.
+In Conway city, total sales were $301.96 and total profit was $45.29.
+In Coon Rapids city, total sales were $503.13 and total profit was $136.45.
+In Coppell city, total sales were $135.94 and total profit was $41.49.
+In Coral Gables city, total sales were $64.25 and total profit was $22.36.
+In Coral Springs city, total sales were $824.99 and total profit was $18.56.
+In Corpus Christi city, total sales were $220.54 and total loss was $43.73.
+In Costa Mesa city, total sales were $1,497.67 and total profit was $297.21.
+In Cottage Grove city, total sales were $144.36 and total profit was $54.80.
+In Covington city, total sales were $413.68 and total profit was $115.11.
+In Cranston city, total sales were $4,024.92 and total profit was $637.50.
+In Cuyahoga Falls city, total sales were $29.09 and total loss was $12.58.
+In Dallas city, total sales were $20,131.93 and total loss was $2,846.53.
+In Danbury city, total sales were $27.46 and total profit was $9.89.
+In Danville city, total sales were $1,202.25 and total profit was $213.05.
+In Davis city, total sales were $32.40 and total profit was $15.55.
+In Daytona Beach city, total sales were $272.33 and total loss was $52.33.
+In Dearborn city, total sales were $1,603.31 and total profit was $467.39.
+In Dearborn Heights city, total sales were $1,051.57 and total profit was $140.89.
+In Decatur city, total sales were $6,544.29 and total profit was $689.06.
+In Deer Park city, total sales were $6.92 and total loss was $10.39.
+In Delray Beach city, total sales were $242.54 and total profit was $29.05.
+In Deltona city, total sales were $893.24 and total profit was $122.13.
+In Denver city, total sales were $12,198.79 and total loss was $244.92.
+In Des Moines city, total sales were $5,463.28 and total profit was $1,610.74.
+In Des Plaines city, total sales were $1,493.21 and total loss was $236.77.
+In Detroit city, total sales were $42,446.94 and total profit was $13,181.79.
+In Dover city, total sales were $4,878.07 and total profit was $1,021.49.
+In Draper city, total sales were $263.65 and total profit was $92.73.
+In Dublin city, total sales were $2,401.16 and total loss was $349.93.
+In Dubuque city, total sales were $1,687.30 and total profit was $477.67.
+In Durham city, total sales were $879.96 and total profit was $116.87.
+In Eagan city, total sales were $214.28 and total profit was $87.03.
+In East Orange city, total sales were $377.27 and total profit was $174.62.
+In East Point city, total sales were $268.40 and total profit was $102.01.
+In Eau Claire city, total sales were $1,645.65 and total profit was $427.50.
+In Edinburg city, total sales were $88.28 and total profit was $27.81.
+In Edmond city, total sales were $959.55 and total profit was $243.10.
+In Edmonds city, total sales were $2,523.69 and total profit was $634.25.
+In El Cajon city, total sales were $865.62 and total profit was $52.69.
+In El Paso city, total sales were $3,546.06 and total loss was $179.90.
+In Elkhart city, total sales were $171.43 and total profit was $16.67.
+In Elmhurst city, total sales were $891.63 and total loss was $212.13.
+In Elyria city, total sales were $1.82 and total loss was $1.40.
+In Encinitas city, total sales were $591.98 and total profit was $71.06.
+In Englewood city, total sales were $124.06 and total profit was $13.75.
+In Escondido city, total sales were $94.55 and total profit was $27.75.
+In Eugene city, total sales were $1,465.03 and total profit was $134.04.
+In Evanston city, total sales were $1,753.80 and total profit was $411.88.
+In Everett city, total sales were $5,665.73 and total profit was $1,361.48.
+In Fairfield city, total sales were $9,483.86 and total profit was $1,210.31.
+In Fargo city, total sales were $919.91 and total profit was $230.15.
+In Farmington city, total sales were $718.72 and total profit was $169.41.
+In Fayetteville city, total sales were $6,925.93 and total profit was $1,818.67.
+In Florence city, total sales were $7,621.72 and total profit was $2,168.97.
+In Fort Collins city, total sales were $935.25 and total loss was $252.69.
+In Fort Lauderdale city, total sales were $4,929.53 and total loss was $161.36.
+In Fort Worth city, total sales were $6,602.71 and total profit was $298.73.
+In Frankfort city, total sales were $97.63 and total loss was $26.06.
+In Franklin city, total sales were $11,257.04 and total profit was $1,664.87.
+In Freeport city, total sales were $739.15 and total loss was $20.09.
+In Fremont city, total sales were $1,119.01 and total profit was $179.47.
+In Fresno city, total sales were $7,888.53 and total profit was $948.27.
+In Frisco city, total sales were $57.50 and total loss was $18.80.
+In Gaithersburg city, total sales were $405.92 and total profit was $105.54.
+In Garden City city, total sales were $312.38 and total profit was $90.63.
+In Garland city, total sales were $67.70 and total loss was $32.37.
+In Gastonia city, total sales were $895.06 and total loss was $14.74.
+In Georgetown city, total sales were $1,786.42 and total profit was $402.76.
+In Gilbert city, total sales were $4,172.38 and total profit was $138.25.
+In Gladstone city, total sales were $164.34 and total profit was $52.59.
+In Glendale city, total sales were $2,917.86 and total profit was $182.86.
+In Glenview city, total sales were $158.38 and total profit was $13.86.
+In Goldsboro city, total sales were $34.94 and total profit was $3.06.
+In Grand Island city, total sales were $15.96 and total profit was $7.98.
+In Grand Prairie city, total sales were $1,012.49 and total loss was $85.23.
+In Grand Rapids city, total sales were $526.13 and total profit was $233.92.
+In Grapevine city, total sales were $41.53 and total profit was $8.77.
+In Great Falls city, total sales were $4,605.58 and total profit was $1,582.71.
+In Greeley city, total sales were $30.35 and total profit was $10.36.
+In Green Bay city, total sales were $527.32 and total profit was $228.48.
+In Greensboro city, total sales were $2,406.78 and total loss was $122.95.
+In Greenville city, total sales were $2,117.83 and total loss was $548.99.
+In Greenwood city, total sales were $1,665.05 and total profit was $471.73.
+In Gresham city, total sales were $2,133.42 and total profit was $150.86.
+In Grove City city, total sales were $123.59 and total profit was $13.20.
+In Gulfport city, total sales were $166.50 and total profit was $77.58.
+In Hackensack city, total sales were $1,456.16 and total profit was $451.25.
+In Hagerstown city, total sales were $43.80 and total profit was $20.59.
+In Haltom City city, total sales were $269.33 and total profit was $51.96.
+In Hamilton city, total sales were $328.22 and total loss was $9.39.
+In Hampton city, total sales were $2,722.26 and total profit was $953.83.
+In Harlingen city, total sales were $471.40 and total profit was $18.13.
+In Harrisonburg city, total sales were $4,388.71 and total profit was $889.52.
+In Hattiesburg city, total sales were $1,722.84 and total profit was $582.07.
+In Helena city, total sales were $443.84 and total profit was $74.62.
+In Hempstead city, total sales were $2,589.59 and total profit was $629.06.
+In Henderson city, total sales were $17,549.07 and total profit was $4,911.86.
+In Hendersonville city, total sales were $319.54 and total loss was $45.39.
+In Hesperia city, total sales were $1,213.17 and total profit was $98.53.
+In Hialeah city, total sales were $2,338.95 and total loss was $179.23.
+In Hickory city, total sales were $40.76 and total loss was $1.10.
+In Highland Park city, total sales were $2,035.10 and total loss was $169.94.
+In Hillsboro city, total sales were $87.84 and total profit was $1.55.
+In Holland city, total sales were $137.86 and total profit was $66.66.
+In Hollywood city, total sales were $1,070.47 and total profit was $108.20.
+In Holyoke city, total sales were $301.96 and total profit was $60.39.
+In Homestead city, total sales were $132.55 and total profit was $22.33.
+In Hoover city, total sales were $525.85 and total profit was $18.72.
+In Hot Springs city, total sales were $245.83 and total profit was $62.08.
+In Houston city, total sales were $64,504.76 and total loss was $10,153.55.
+In Huntington Beach city, total sales were $2,527.82 and total profit was $880.04.
+In Huntsville city, total sales were $9,194.99 and total profit was $161.83.
+In Independence city, total sales were $2,417.37 and total profit was $975.66.
+In Indianapolis city, total sales were $9,306.42 and total profit was $2,741.65.
+In Inglewood city, total sales were $3,479.33 and total profit was $1,026.70.
+In Iowa City city, total sales were $9.99 and total profit was $4.50.
+In Irving city, total sales were $605.50 and total loss was $100.51.
+In Jackson city, total sales were $24,963.86 and total profit was $7,581.68.
+In Jacksonville city, total sales were $44,713.18 and total loss was $2,323.84.
+In Jamestown city, total sales were $4,708.79 and total profit was $1,285.77.
+In Jefferson City city, total sales were $86.62 and total profit was $8.66.
+In Johnson City city, total sales were $765.85 and total profit was $11.86.
+In Jonesboro city, total sales were $2,915.32 and total profit was $801.11.
+In Jupiter city, total sales were $2.06 and total profit was $0.15.
+In Keller city, total sales were $6.00 and total profit was $2.10.
+In Kenner city, total sales were $89.32 and total profit was $19.80.
+In Kenosha city, total sales were $3,906.73 and total profit was $1,028.07.
+In Kent city, total sales were $1,697.56 and total profit was $591.80.
+In Kirkwood city, total sales were $241.34 and total profit was $47.13.
+In Kissimmee city, total sales were $751.98 and total profit was $84.60.
+In Knoxville city, total sales were $3,928.17 and total loss was $1,165.08.
+In La Crosse city, total sales were $830.41 and total profit was $272.08.
+In La Mesa city, total sales were $367.53 and total profit was $114.39.
+In La Porte city, total sales were $1,051.73 and total profit was $191.99.
+In La Quinta city, total sales were $46.32 and total profit was $18.06.
+In Lafayette city, total sales were $25,036.20 and total profit was $10,018.39.
+In Laguna Niguel city, total sales were $290.98 and total profit was $41.98.
+In Lake Charles city, total sales were $547.41 and total profit was $241.26.
+In Lake Elsinore city, total sales were $283.92 and total profit was $17.75.
+In Lake Forest city, total sales were $1,625.54 and total profit was $327.53.
+In Lakeland city, total sales were $5,606.89 and total loss was $188.64.
+In Lakeville city, total sales were $4,260.95 and total profit was $1,346.60.
+In Lakewood city, total sales were $18,192.05 and total profit was $3,234.03.
+In Lancaster city, total sales were $9,891.46 and total loss was $7,239.07.
+In Lansing city, total sales were $1,610.29 and total profit was $412.87.
+In Laredo city, total sales were $1,024.34 and total loss was $54.61.
+In Las Cruces city, total sales were $98.77 and total profit was $43.94.
+In Las Vegas city, total sales were $1,834.02 and total profit was $332.44.
+In Laurel city, total sales were $152.59 and total profit was $46.17.
+In Lawrence city, total sales were $7,654.19 and total profit was $2,382.15.
+In Lawton city, total sales were $1,057.49 and total profit was $235.51.
+In Layton city, total sales were $4.96 and total profit was $2.33.
+In League City city, total sales were $875.37 and total loss was $31.35.
+In Lebanon city, total sales were $488.90 and total profit was $83.81.
+In Lehi city, total sales were $1,516.73 and total profit was $451.66.
+In Leominster city, total sales were $217.49 and total profit was $79.50.
+In Lewiston city, total sales were $115.66 and total profit was $35.62.
+In Lincoln Park city, total sales were $387.60 and total profit was $68.37.
+In Linden city, total sales were $115.36 and total profit was $49.60.
+In Lindenhurst city, total sales were $55.48 and total profit was $26.63.
+In Little Rock city, total sales were $3,560.35 and total profit was $1,154.67.
+In Littleton city, total sales were $72.29 and total loss was $98.80.
+In Lodi city, total sales were $136.98 and total profit was $44.49.
+In Logan city, total sales were $280.28 and total profit was $46.96.
+In Long Beach city, total sales were $13,455.03 and total profit was $2,108.93.
+In Longmont city, total sales were $915.09 and total profit was $34.83.
+In Longview city, total sales were $119.21 and total profit was $38.90.
+In Lorain city, total sales were $2,015.11 and total loss was $632.92.
+In Los Angeles city, total sales were $175,851.34 and total profit was $30,440.76.
+In Louisville city, total sales were $12,345.81 and total loss was $1,430.31.
+In Loveland city, total sales were $20.96 and total profit was $4.48.
+In Lowell city, total sales were $4,837.93 and total profit was $1,312.57.
+In Lubbock city, total sales were $592.56 and total profit was $147.14.
+In Macon city, total sales were $364.01 and total profit was $144.85.
+In Madison city, total sales were $5,346.79 and total profit was $1,123.66.
+In Malden city, total sales were $228.38 and total profit was $31.17.
+In Manchester city, total sales were $2,126.28 and total profit was $600.51.
+In Manhattan city, total sales were $273.96 and total profit was $10.96.
+In Mansfield city, total sales were $558.88 and total loss was $66.79.
+In Manteca city, total sales were $452.18 and total profit was $172.24.
+In Maple Grove city, total sales were $882.87 and total profit was $385.01.
+In Margate city, total sales were $15.55 and total profit was $2.33.
+In Marietta city, total sales were $2,938.62 and total profit was $512.15.
+In Marion city, total sales were $3,369.35 and total loss was $380.36.
+In Marlborough city, total sales were $206.64 and total profit was $67.61.
+In Marysville city, total sales were $102.18 and total profit was $3.32.
+In Mason city, total sales were $94.26 and total loss was $4.24.
+In Mcallen city, total sales were $866.72 and total loss was $163.87.
+In Medford city, total sales were $90.22 and total profit was $19.70.
+In Medina city, total sales were $2,477.72 and total loss was $1,343.04.
+In Melbourne city, total sales were $95.62 and total profit was $9.56.
+In Memphis city, total sales were $5,942.34 and total loss was $1,479.04.
+In Mentor city, total sales were $693.13 and total loss was $123.27.
+In Meriden city, total sales were $1,550.68 and total profit was $470.22.
+In Meridian city, total sales were $329.05 and total profit was $95.21.
+In Mesa city, total sales were $4,037.74 and total loss was $559.23.
+In Mesquite city, total sales were $52.15 and total loss was $87.62.
+In Miami city, total sales were $8,673.07 and total loss was $1,150.37.
+In Middletown city, total sales were $1,154.61 and total profit was $157.62.
+In Midland city, total sales were $5,291.51 and total profit was $2,293.68.
+In Milford city, total sales were $961.74 and total profit was $319.05.
+In Milwaukee city, total sales were $11,410.22 and total profit was $2,793.09.
+In Minneapolis city, total sales were $16,870.54 and total profit was $6,824.58.
+In Miramar city, total sales were $1,531.19 and total profit was $32.28.
+In Mishawaka city, total sales were $776.24 and total profit was $96.59.
+In Mission Viejo city, total sales were $775.99 and total profit was $151.06.
+In Missoula city, total sales were $487.98 and total profit was $152.50.
+In Missouri City city, total sales were $6.37 and total loss was $9.55.
+In Mobile city, total sales were $5,462.99 and total profit was $2,175.83.
+In Modesto city, total sales were $326.15 and total profit was $19.94.
+In Monroe city, total sales were $2,970.43 and total profit was $696.62.
+In Montebello city, total sales were $27.88 and total profit was $3.90.
+In Montgomery city, total sales were $3,722.73 and total profit was $834.66.
+In Moorhead city, total sales were $543.86 and total profit was $101.41.
+In Moreno Valley city, total sales were $1,262.47 and total profit was $353.63.
+In Morgan Hill city, total sales were $545.01 and total profit was $7.85.
+In Morristown city, total sales were $5,033.10 and total profit was $1,838.23.
+In Mount Pleasant city, total sales were $563.08 and total profit was $93.52.
+In Mount Vernon city, total sales were $2,119.63 and total profit was $662.51.
+In Murfreesboro city, total sales were $337.33 and total profit was $15.69.
+In Murray city, total sales were $410.94 and total profit was $131.53.
+In Murrieta city, total sales were $484.65 and total profit was $92.08.
+In Muskogee city, total sales were $1,721.70 and total profit was $442.60.
+In Naperville city, total sales were $1,288.30 and total loss was $146.53.
+In Nashua city, total sales were $35.94 and total profit was $13.51.
+In Nashville city, total sales were $6,070.86 and total loss was $837.49.
+In New Albany city, total sales were $209.55 and total profit was $73.35.
+In New Bedford city, total sales were $235.97 and total profit was $50.49.
+In New Brunswick city, total sales were $14.77 and total profit was $7.16.
+In New Castle city, total sales were $84.61 and total profit was $23.08.
+In New Rochelle city, total sales were $1,255.23 and total profit was $368.41.
+In New York City city, total sales were $256,368.16 and total profit was $62,036.98.
+In Newark city, total sales were $28,576.12 and total profit was $5,793.76.
+In Newport News city, total sales were $3,321.95 and total profit was $1,197.05.
+In Niagara Falls city, total sales were $199.84 and total profit was $59.24.
+In Noblesville city, total sales were $3,091.18 and total profit was $353.31.
+In Norfolk city, total sales were $17.43 and total profit was $8.02.
+In Normal city, total sales were $366.74 and total loss was $110.02.
+In Norman city, total sales were $1,351.33 and total profit was $269.53.
+In North Charleston city, total sales were $284.25 and total profit was $9.67.
+In North Las Vegas city, total sales were $9,801.00 and total profit was $2,247.69.
+In North Miami city, total sales were $22.13 and total profit was $3.08.
+In Norwich city, total sales were $414.04 and total profit was $164.09.
+In Oak Park city, total sales were $591.05 and total profit was $152.04.
+In Oakland city, total sales were $5,964.42 and total profit was $834.10.
+In Oceanside city, total sales were $4,350.74 and total profit was $772.68.
+In Odessa city, total sales were $976.12 and total loss was $69.71.
+In Oklahoma City city, total sales were $6,596.82 and total profit was $1,580.76.
+In Olathe city, total sales were $895.79 and total profit was $207.41.
+In Olympia city, total sales were $1,020.45 and total profit was $139.63.
+In Omaha city, total sales were $6,312.53 and total profit was $1,841.63.
+In Ontario city, total sales were $283.92 and total loss was $46.14.
+In Orange city, total sales were $211.11 and total profit was $66.57.
+In Orem city, total sales were $2,994.09 and total profit was $514.63.
+In Orland Park city, total sales were $339.96 and total profit was $67.99.
+In Orlando city, total sales were $1,740.08 and total profit was $377.73.
+In Ormond Beach city, total sales were $2.81 and total loss was $1.97.
+In Oswego city, total sales were $321.98 and total loss was $536.13.
+In Overland Park city, total sales were $606.91 and total profit was $203.52.
+In Owensboro city, total sales were $71.18 and total profit was $27.64.
+In Oxnard city, total sales were $1,558.10 and total profit was $346.46.
+In Palatine city, total sales were $116.31 and total profit was $23.26.
+In Palm Coast city, total sales were $274.43 and total profit was $17.66.
+In Park Ridge city, total sales were $685.00 and total loss was $238.45.
+In Parker city, total sales were $1,067.94 and total loss was $164.19.
+In Parma city, total sales were $3,879.76 and total profit was $31.06.
+In Pasadena city, total sales were $6,590.15 and total profit was $89.87.
+In Pasco city, total sales were $2,201.11 and total profit was $357.52.
+In Passaic city, total sales were $1,562.09 and total profit was $356.82.
+In Paterson city, total sales were $2,243.21 and total profit was $740.49.
+In Pearland city, total sales were $495.00 and total profit was $39.41.
+In Pembroke Pines city, total sales were $1,714.38 and total loss was $72.45.
+In Pensacola city, total sales were $2.21 and total loss was $1.48.
+In Peoria city, total sales were $1,842.83 and total loss was $127.87.
+In Perth Amboy city, total sales were $1,717.08 and total profit was $633.64.
+In Pharr city, total sales were $1,540.71 and total loss was $237.55.
+In Philadelphia city, total sales were $109,077.01 and total loss was $13,837.77.
+In Phoenix city, total sales were $11,000.26 and total loss was $2,790.88.
+In Pico Rivera city, total sales were $145.90 and total profit was $62.74.
+In Pine Bluff city, total sales were $212.91 and total profit was $70.20.
+In Plainfield city, total sales were $4,526.85 and total profit was $1,235.67.
+In Plano city, total sales were $3,530.37 and total loss was $383.06.
+In Plantation city, total sales were $1,436.84 and total profit was $12.04.
+In Pleasant Grove city, total sales were $2,138.18 and total profit was $580.65.
+In Pocatello city, total sales were $1,344.94 and total profit was $181.36.
+In Pomona city, total sales were $1,482.50 and total profit was $150.30.
+In Pompano Beach city, total sales were $90.44 and total profit was $15.01.
+In Port Arthur city, total sales were $737.05 and total profit was $105.78.
+In Port Orange city, total sales were $7.82 and total profit was $2.93.
+In Port Saint Lucie city, total sales were $248.95 and total profit was $4.45.
+In Portage city, total sales were $16.28 and total profit was $6.51.
+In Portland city, total sales were $4,051.87 and total profit was $9.76.
+In Providence city, total sales were $15,980.65 and total profit was $5,505.66.
+In Provo city, total sales were $2,761.23 and total profit was $388.57.
+In Pueblo city, total sales were $1,686.94 and total loss was $900.97.
+In Quincy city, total sales were $1,276.46 and total profit was $347.09.
+In Raleigh city, total sales were $4,507.54 and total profit was $472.59.
+In Rancho Cucamonga city, total sales were $231.85 and total profit was $73.74.
+In Rapid City city, total sales were $152.64 and total profit was $44.77.
+In Reading city, total sales were $873.71 and total loss was $268.76.
+In Redding city, total sales were $333.58 and total profit was $25.02.
+In Redlands city, total sales were $2,891.02 and total profit was $454.16.
+In Redmond city, total sales were $1,098.26 and total loss was $153.72.
+In Redondo Beach city, total sales were $1,959.80 and total profit was $176.43.
+In Redwood City city, total sales were $41.90 and total profit was $14.14.
+In Reno city, total sales were $644.06 and total profit was $115.05.
+In Renton city, total sales were $1,242.63 and total profit was $185.43.
+In Revere city, total sales were $833.26 and total profit was $258.84.
+In Richardson city, total sales were $1,288.46 and total loss was $24.49.
+In Richmond city, total sales were $18,137.93 and total profit was $5,567.25.
+In Rio Rancho city, total sales were $1,114.19 and total profit was $119.59.
+In Riverside city, total sales were $1,944.25 and total profit was $374.73.
+In Rochester city, total sales were $7,974.53 and total profit was $1,743.42.
+In Rochester Hills city, total sales were $132.52 and total profit was $54.33.
+In Rock Hill city, total sales were $11.85 and total profit was $3.79.
+In Rockford city, total sales were $3,166.23 and total loss was $1,149.51.
+In Rockville city, total sales were $469.77 and total profit was $133.21.
+In Rogers city, total sales were $40.41 and total profit was $18.59.
+In Rome city, total sales were $534.85 and total profit was $154.21.
+In Romeoville city, total sales were $8.95 and total loss was $14.77.
+In Roseville city, total sales were $3,588.63 and total profit was $1,253.39.
+In Roswell city, total sales were $6,652.32 and total profit was $2,427.44.
+In Round Rock city, total sales were $4,854.05 and total loss was $1,183.43.
+In Royal Oak city, total sales were $35.34 and total profit was $16.96.
+In Sacramento city, total sales were $7,311.28 and total profit was $2,069.69.
+In Saginaw city, total sales were $395.86 and total profit was $77.18.
+In Saint Charles city, total sales were $1,659.65 and total profit was $311.48.
+In Saint Cloud city, total sales were $1,331.82 and total profit was $469.61.
+In Saint Louis city, total sales were $285.96 and total profit was $98.55.
+In Saint Paul city, total sales were $192.83 and total profit was $24.88.
+In Saint Peters city, total sales were $697.16 and total profit was $146.40.
+In Saint Petersburg city, total sales were $1,690.79 and total profit was $151.98.
+In Salem city, total sales were $3,444.24 and total profit was $270.69.
+In Salinas city, total sales were $728.89 and total profit was $270.52.
+In Salt Lake City city, total sales were $802.78 and total profit was $329.26.
+In San Angelo city, total sales were $650.64 and total loss was $58.55.
+In San Antonio city, total sales were $21,843.53 and total loss was $7,299.05.
+In San Bernardino city, total sales were $979.30 and total profit was $69.98.
+In San Clemente city, total sales were $90.06 and total profit was $42.54.
+In San Diego city, total sales were $47,521.03 and total profit was $6,377.20.
+In San Francisco city, total sales were $112,669.09 and total profit was $17,507.39.
+In San Gabriel city, total sales were $2,061.01 and total profit was $290.90.
+In San Jose city, total sales were $6,071.23 and total profit was $1,216.06.
+In San Luis Obispo city, total sales were $3.62 and total profit was $1.19.
+In San Marcos city, total sales were $108.44 and total loss was $19.34.
+In San Mateo city, total sales were $75.18 and total profit was $35.33.
+In Sandy Springs city, total sales were $1,997.03 and total profit was $520.59.
+In Sanford city, total sales were $225.55 and total loss was $11.83.
+In Santa Ana city, total sales were $3,366.31 and total profit was $836.75.
+In Santa Barbara city, total sales were $4,289.23 and total profit was $457.29.
+In Santa Clara city, total sales were $222.19 and total profit was $76.00.
+In Santa Fe city, total sales were $100.92 and total profit was $20.69.
+In Santa Maria city, total sales were $115.44 and total profit was $30.01.
+In Scottsdale city, total sales were $1,466.31 and total loss was $89.49.
+In Seattle city, total sales were $119,540.74 and total profit was $29,156.10.
+In Sheboygan city, total sales were $79.74 and total profit was $34.34.
+In Shelton city, total sales were $73.33 and total profit was $21.41.
+In Sierra Vista city, total sales were $76.07 and total profit was $16.83.
+In Sioux Falls city, total sales were $1,137.42 and total profit was $343.43.
+In Skokie city, total sales were $568.83 and total loss was $346.87.
+In Smyrna city, total sales were $3,238.89 and total profit was $826.70.
+In South Bend city, total sales were $1,238.33 and total profit was $279.55.
+In Southaven city, total sales were $1,455.39 and total profit was $412.89.
+In Sparks city, total sales were $2,561.96 and total profit was $228.54.
+In Spokane city, total sales were $2,027.92 and total profit was $172.23.
+In Springdale city, total sales were $4.30 and total profit was $1.42.
+In Springfield city, total sales were $43,054.34 and total profit was $6,200.70.
+In Sterling Heights city, total sales were $110.04 and total profit was $33.07.
+In Stockton city, total sales were $1,227.60 and total profit was $339.53.
+In Suffolk city, total sales were $1,597.90 and total profit was $389.81.
+In Summerville city, total sales were $406.94 and total profit was $196.91.
+In Sunnyvale city, total sales were $636.21 and total profit was $107.51.
+In Superior city, total sales were $1,299.73 and total profit was $514.08.
+In Tallahassee city, total sales were $7,250.67 and total profit was $392.71.
+In Tamarac city, total sales were $1,413.51 and total loss was $351.90.
+In Tampa city, total sales were $5,196.08 and total loss was $325.24.
+In Taylor city, total sales were $353.70 and total profit was $44.87.
+In Temecula city, total sales were $808.67 and total profit was $101.89.
+In Tempe city, total sales were $1,070.30 and total profit was $95.45.
+In Texarkana city, total sales were $654.24 and total profit was $163.37.
+In Texas City city, total sales were $790.97 and total profit was $20.22.
+In The Colony city, total sales were $142.16 and total profit was $31.66.
+In Thomasville city, total sales were $151.29 and total profit was $33.39.
+In Thornton city, total sales were $765.25 and total profit was $140.84.
+In Thousand Oaks city, total sales were $238.80 and total profit was $99.91.
+In Tigard city, total sales were $1,393.78 and total loss was $216.29.
+In Tinley Park city, total sales were $22.29 and total loss was $8.92.
+In Toledo city, total sales were $4,466.05 and total loss was $340.00.
+In Torrance city, total sales were $3,132.27 and total profit was $545.15.
+In Trenton city, total sales were $1,765.20 and total profit was $652.10.
+In Troy city, total sales were $4,507.09 and total loss was $544.15.
+In Tucson city, total sales were $6,313.02 and total loss was $64.97.
+In Tulsa city, total sales were $5,556.97 and total profit was $1,506.93.
+In Tuscaloosa city, total sales were $175.70 and total profit was $51.01.
+In Twin Falls city, total sales were $1,148.81 and total profit was $266.16.
+In Tyler city, total sales were $347.21 and total loss was $443.71.
+In Urbandale city, total sales were $149.12 and total profit was $57.72.
+In Utica city, total sales were $655.04 and total profit was $188.56.
+In Vacaville city, total sales were $423.28 and total profit was $110.05.
+In Vallejo city, total sales were $1,221.41 and total profit was $336.04.
+In Vancouver city, total sales were $686.84 and total profit was $75.45.
+In Vineland city, total sales were $647.97 and total profit was $62.25.
+In Virginia Beach city, total sales were $5,752.13 and total profit was $2,024.88.
+In Visalia city, total sales were $318.78 and total profit was $88.05.
+In Waco city, total sales were $606.11 and total loss was $520.10.
+In Warner Robins city, total sales were $434.80 and total profit was $53.69.
+In Warwick city, total sales were $2,426.84 and total profit was $1,063.80.
+In Washington city, total sales were $2,865.02 and total profit was $1,059.59.
+In Waterbury city, total sales were $1,326.06 and total profit was $338.94.
+In Waterloo city, total sales were $30.32 and total profit was $11.82.
+In Watertown city, total sales were $4,045.00 and total profit was $907.01.
+In Waukesha city, total sales were $54.50 and total profit was $14.17.
+In Wausau city, total sales were $317.48 and total profit was $90.43.
+In Waynesboro city, total sales were $3,058.77 and total profit was $603.39.
+In West Allis city, total sales were $250.48 and total profit was $28.37.
+In West Jordan city, total sales were $311.85 and total profit was $102.67.
+In West Palm Beach city, total sales were $141.33 and total profit was $31.61.
+In Westfield city, total sales were $519.72 and total profit was $153.18.
+In Westland city, total sales were $2,057.98 and total profit was $389.60.
+In Westminster city, total sales were $3,826.65 and total profit was $763.69.
+In Wheeling city, total sales were $1,946.97 and total loss was $107.40.
+In Whittier city, total sales were $444.77 and total profit was $44.48.
+In Wichita city, total sales were $825.27 and total profit was $323.93.
+In Wilmington city, total sales were $7,297.06 and total profit was $1,947.70.
+In Wilson city, total sales were $368.73 and total loss was $14.34.
+In Woodbury city, total sales were $607.65 and total profit was $196.10.
+In Woodland city, total sales were $264.66 and total profit was $33.38.
+In Woodstock city, total sales were $1,143.90 and total profit was $79.99.
+In Woonsocket city, total sales were $195.55 and total profit was $78.68.
+In Yonkers city, total sales were $7,657.67 and total profit was $2,767.76.
+In York city, total sales were $817.98 and total loss was $102.17.
+In Yucaipa city, total sales were $50.80 and total profit was $13.21.
+In Yuma city, total sales were $840.87 and total loss was $465.99.

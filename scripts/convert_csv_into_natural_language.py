@@ -24,7 +24,7 @@ def transaction_to_sentence(row):
     profit = row['Profit']
 
     return (f"On {order_date}, {customer_name} ({segment}) ordered {qty} unit(s) of {product_name} " +
-            f"(from product category {category}, subcategory {sub_category}) from {city}, {state} ({region} region), {country}. " +
+            f"(in product category {category}, subcategory {sub_category}) from {city}, {state} ({region} region), {country}. " +
             f"Shipped on {ship_date} via {ship_mode}. Sales: ${sales:.2f}, discount: {discount*100:.0f}%, " +
             f"{'profit' if profit >= 0 else 'loss'}: ${abs(profit):.2f}.")
 
@@ -72,7 +72,7 @@ with open('text_files/category_summaries.txt', 'w') as f:
         sentence = f"In the {category} category, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
         f.write(sentence + '\n')
 
-# Create a text file with sub-category performance summaries as natural language sentences
+# Create a text file with subcategory performance summaries as natural language sentences
 df_sub_category = df.groupby(['Category', 'Sub-Category']).agg({
     'Sales': 'sum',
     'Profit': 'sum'
@@ -83,7 +83,7 @@ with open('text_files/sub_category_summaries.txt', 'w') as f:
         sales = row['Sales']
         profit = row['Profit']
 
-        sentence = f"In the {category} category, the {sub_category} sub-category had total sales of ${sales:,.2f} and a total {'profit' if profit >= 0 else 'loss'} of ${abs(profit):,.2f}."
+        sentence = f"In the {category} category, subcategory {sub_category}, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
         f.write(sentence + '\n')
 
 # Create a text file with regional performance summaries as natural language sentences
@@ -111,7 +111,7 @@ with open('text_files/state_summaries.txt', 'w') as f:
         sales = row['Sales']
         profit = row['Profit']
 
-        sentence = f"In {state}, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
+        sentence = f"In {state} state, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
         f.write(sentence + '\n')
 
 # Create a text file with city performance summaries as natural language sentences
@@ -125,7 +125,7 @@ with open('text_files/city_summaries.txt', 'w') as f:
         sales = row['Sales']
         profit = row['Profit']
 
-        sentence = f"In {city}, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
+        sentence = f"In {city} city, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
         f.write(sentence + '\n')
 
 # Statistical summaries
@@ -139,4 +139,4 @@ with open('text_files/statistical_summaries.txt', 'w') as f:
 
     yearly_profit = df.groupby('Year')['Profit'].sum()
     for year, profit in yearly_profit.items():
-        f.write(f"In {year}, the overall profit was ${profit:,.2f}.\n")
+        f.write(f"In {year}, the overall {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}.\n")

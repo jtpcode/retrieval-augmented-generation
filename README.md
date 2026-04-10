@@ -5,7 +5,7 @@ This project is a Retrieval-Augmented Generation (RAG) system built to analyze a
 ## Setup Instructions
 
 ### Prerequisites
-- **Python 3.14**
+- **Python 3.13**
 - **Ollama** installed on your system (for running the local LLM)
 
 ### 1. Environment Setup
@@ -13,20 +13,15 @@ Create a virtual environment and install the required dependencies:
 
 ```bash
 # Create the virtual environment
-python3.14 -m venv venv
+python3.13 -m venv .venv
 
 # Activate the virtual environment
 # On Linux/macOS:
-source venv/bin/activate
+source .venv/bin/activate
 
-# Install dependencies (ensure requirements.txt is created later)
-pip install langchain-ollama chromadb sentence-transformers pandas 
-```
-
-### 2. Create `requirements.txt`
-After installing the dependencies, create a `requirements.txt` file:
+# Install dependencies
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 2. LLM Setup

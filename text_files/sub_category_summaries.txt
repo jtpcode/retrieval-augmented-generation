@@ -1,17 +1,17 @@
-In the Furniture category, the Bookcases sub-category had total sales of $114,880.00 and a total loss of $3,472.56.
-In the Furniture category, the Chairs sub-category had total sales of $328,449.10 and a total profit of $26,590.17.
-In the Furniture category, the Furnishings sub-category had total sales of $91,705.16 and a total profit of $13,059.14.
-In the Furniture category, the Tables sub-category had total sales of $206,965.53 and a total loss of $17,725.48.
-In the Office Supplies category, the Appliances sub-category had total sales of $107,532.16 and a total profit of $18,138.01.
-In the Office Supplies category, the Art sub-category had total sales of $27,118.79 and a total profit of $6,527.79.
-In the Office Supplies category, the Binders sub-category had total sales of $203,412.73 and a total profit of $30,221.76.
-In the Office Supplies category, the Envelopes sub-category had total sales of $16,476.40 and a total profit of $6,964.18.
-In the Office Supplies category, the Fasteners sub-category had total sales of $3,024.28 and a total profit of $949.52.
-In the Office Supplies category, the Labels sub-category had total sales of $12,486.31 and a total profit of $5,546.25.
-In the Office Supplies category, the Paper sub-category had total sales of $78,479.21 and a total profit of $34,053.57.
-In the Office Supplies category, the Storage sub-category had total sales of $223,843.61 and a total profit of $21,278.83.
-In the Office Supplies category, the Supplies sub-category had total sales of $46,673.54 and a total loss of $1,189.10.
-In the Technology category, the Accessories sub-category had total sales of $167,380.32 and a total profit of $41,936.64.
-In the Technology category, the Copiers sub-category had total sales of $149,528.03 and a total profit of $55,617.82.
-In the Technology category, the Machines sub-category had total sales of $189,238.63 and a total profit of $3,384.76.
-In the Technology category, the Phones sub-category had total sales of $330,007.05 and a total profit of $44,515.73.
+In the Furniture category, subcategory Bookcases, total sales were $114,880.00 and total loss was $3,472.56.
+In the Furniture category, subcategory Chairs, total sales were $328,449.10 and total profit was $26,590.17.
+In the Furniture category, subcategory Furnishings, total sales were $91,705.16 and total profit was $13,059.14.
+In the Furniture category, subcategory Tables, total sales were $206,965.53 and total loss was $17,725.48.
+In the Office Supplies category, subcategory Appliances, total sales were $107,532.16 and total profit was $18,138.01.
+In the Office Supplies category, subcategory Art, total sales were $27,118.79 and total profit was $6,527.79.
+In the Office Supplies category, subcategory Binders, total sales were $203,412.73 and total profit was $30,221.76.
+In the Office Supplies category, subcategory Envelopes, total sales were $16,476.40 and total profit was $6,964.18.
+In the Office Supplies category, subcategory Fasteners, total sales were $3,024.28 and total profit was $949.52.
+In the Office Supplies category, subcategory Labels, total sales were $12,486.31 and total profit was $5,546.25.
+In the Office Supplies category, subcategory Paper, total sales were $78,479.21 and total profit was $34,053.57.
+In the Office Supplies category, subcategory Storage, total sales were $223,843.61 and total profit was $21,278.83.
+In the Office Supplies category, subcategory Supplies, total sales were $46,673.54 and total loss was $1,189.10.
+In the Technology category, subcategory Accessories, total sales were $167,380.32 and total profit was $41,936.64.
+In the Technology category, subcategory Copiers, total sales were $149,528.03 and total profit was $55,617.82.
+In the Technology category, subcategory Machines, total sales were $189,238.63 and total profit was $3,384.76.
+In the Technology category, subcategory Phones, total sales were $330,007.05 and total profit was $44,515.73.
