@@ -20,7 +20,6 @@ python3.13 -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
-```bash
 pip install -r requirements.txt
 ```
 
