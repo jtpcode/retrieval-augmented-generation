@@ -69,7 +69,10 @@ with open('text_files/category_summaries.txt', 'w') as f:
         sales = row['Sales']
         profit = row['Profit']
 
-        sentence = f"In the {category} category, total sales were ${sales:,.2f} and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
+        sentence = (
+            f"From 2014 to 2017, in the {category} category, total sales were ${sales:,.2f} "
+            f"and total {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}."
+        )
         f.write(sentence + '\n')
 
 # Create a text file with subcategory performance summaries as natural language sentences
@@ -142,78 +145,122 @@ with open('text_files/statistical_summaries.txt', 'w') as f:
     for year, profit in yearly_profit.items():
         f.write(f"In {year}, the overall {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}.\n")
 
-    # Means and medians
-    mean_sales = df['Sales'].mean()
-    median_sales = df['Sales'].median()
-    mean_profit = df['Profit'].mean()
-    median_profit = df['Profit'].median()
-    f.write(f"\nOverall mean sales: ${mean_sales:,.2f}, median sales: ${median_sales:,.2f}.\n")
-    f.write(f"Overall mean profit: ${mean_profit:,.2f}, median profit: ${median_profit:,.2f}.\n")
-
     # Top/bottom performers - Products
     product_sales = df.groupby('Product Name')['Sales'].sum()
-    top_product = product_sales.idxmax()
-    top_product_sales = product_sales.max()
-    bottom_product = product_sales.idxmin()
-    bottom_product_sales = product_sales.min()
-    f.write(f"\nTop product by sales: {top_product} (${top_product_sales:,.2f}).\n")
-    f.write(f"Lowest selling product: {bottom_product} (${bottom_product_sales:,.2f}).\n")
+    top5_products_sales = product_sales.sort_values(ascending=False).head(5)
+    bottom5_products_sales = product_sales.sort_values(ascending=True).head(5)
+    f.write("\nTop 5 products by sales:\n")
+    for product, sales in top5_products_sales.items():
+        f.write(f"  {product}: ${sales:,.2f}\n")
+    f.write("Lowest 5 products by sales:\n")
+    for product, sales in bottom5_products_sales.items():
+        f.write(f"  {product}: ${sales:,.2f}\n")
 
     product_profit = df.groupby('Product Name')['Profit'].sum()
-    top_product_profit = product_profit.idxmax()
-    top_product_profit_val = product_profit.max()
-    bottom_product_profit = product_profit.idxmin()
-    bottom_product_profit_val = product_profit.min()
-    f.write(f"Top product by profit: {top_product_profit} (${top_product_profit_val:,.2f}).\n")
-    f.write(f"Lowest profit product: {bottom_product_profit} (${bottom_product_profit_val:,.2f}).\n")
+    top5_products_profit = product_profit.sort_values(ascending=False).head(5)
+    bottom5_products_profit = product_profit.sort_values(ascending=True).head(5)
+    f.write("Top 5 products by profit:\n")
+    for product, profit in top5_products_profit.items():
+        f.write(f"  {product}: ${profit:,.2f}\n")
+    f.write("Lowest 5 products by profit:\n")
+    for product, profit in bottom5_products_profit.items():
+        f.write(f"  {product}: ${profit:,.2f}\n")
 
     # Top/bottom performers - Cities
     city_sales = df.groupby('City')['Sales'].sum()
-    top_city = city_sales.idxmax()
-    top_city_sales = city_sales.max()
-    bottom_city = city_sales.idxmin()
-    bottom_city_sales = city_sales.min()
-    f.write(f"\nTop city by sales: {top_city} (${top_city_sales:,.2f}).\n")
-    f.write(f"Lowest city by sales: {bottom_city} (${bottom_city_sales:,.2f}).\n")
+    top5_cities_sales = city_sales.sort_values(ascending=False).head(5)
+    bottom5_cities_sales = city_sales.sort_values(ascending=True).head(5)
+    f.write("\nTop 5 cities by sales:\n")
+    for city, sales in top5_cities_sales.items():
+        f.write(f"  {city}: ${sales:,.2f}\n")
+    f.write("Lowest 5 cities by sales:\n")
+    for city, sales in bottom5_cities_sales.items():
+        f.write(f"  {city}: ${sales:,.2f}\n")
 
     city_profit = df.groupby('City')['Profit'].sum()
-    top_city_profit = city_profit.idxmax()
-    top_city_profit_val = city_profit.max()
-    bottom_city_profit = city_profit.idxmin()
-    bottom_city_profit_val = city_profit.min()
-    f.write(f"Top city by profit: {top_city_profit} (${top_city_profit_val:,.2f}).\n")
-    f.write(f"Lowest profit city: {bottom_city_profit} (${bottom_city_profit_val:,.2f}).\n")
+    top5_cities_profit = city_profit.sort_values(ascending=False).head(5)
+    bottom5_cities_profit = city_profit.sort_values(ascending=True).head(5)
+    f.write("Top 5 cities by profit:\n")
+    for city, profit in top5_cities_profit.items():
+        f.write(f"  {city}: ${profit:,.2f}\n")
+    f.write("Lowest 5 cities by profit:\n")
+    for city, profit in bottom5_cities_profit.items():
+        f.write(f"  {city}: ${profit:,.2f}\n")
 
     # Top/bottom performers - States
     state_sales = df.groupby('State')['Sales'].sum()
-    top_state = state_sales.idxmax()
-    top_state_sales = state_sales.max()
-    bottom_state = state_sales.idxmin()
-    bottom_state_sales = state_sales.min()
-    f.write(f"\nTop state by sales: {top_state} (${top_state_sales:,.2f}).\n")
-    f.write(f"Lowest state by sales: {bottom_state} (${bottom_state_sales:,.2f}).\n")
+    top5_states_sales = state_sales.sort_values(ascending=False).head(5)
+    bottom5_states_sales = state_sales.sort_values(ascending=True).head(5)
+    f.write("\nTop 5 states by sales:\n")
+    for state, sales in top5_states_sales.items():
+        f.write(f"  {state}: ${sales:,.2f}\n")
+    f.write("Lowest 5 states by sales:\n")
+    for state, sales in bottom5_states_sales.items():
+        f.write(f"  {state}: ${sales:,.2f}\n")
 
     state_profit = df.groupby('State')['Profit'].sum()
-    top_state_profit = state_profit.idxmax()
-    top_state_profit_val = state_profit.max()
-    bottom_state_profit = state_profit.idxmin()
-    bottom_state_profit_val = state_profit.min()
-    f.write(f"Top state by profit: {top_state_profit} (${top_state_profit_val:,.2f}).\n")
-    f.write(f"Lowest profit state: {bottom_state_profit} (${bottom_state_profit_val:,.2f}).\n")
+    top5_states_profit = state_profit.sort_values(ascending=False).head(5)
+    bottom5_states_profit = state_profit.sort_values(ascending=True).head(5)
+    f.write("Top 5 states by profit:\n")
+    for state, profit in top5_states_profit.items():
+        f.write(f"  {state}: ${profit:,.2f}\n")
+    f.write("Lowest 5 states by profit:\n")
+    for state, profit in bottom5_states_profit.items():
+        f.write(f"  {state}: ${profit:,.2f}\n")
 
-    # Top/bottom performers - Regions
-    region_sales = df.groupby('Region')['Sales'].sum()
-    top_region = region_sales.idxmax()
-    top_region_sales = region_sales.max()
-    bottom_region = region_sales.idxmin()
-    bottom_region_sales = region_sales.min()
-    f.write(f"\nTop region by sales: {top_region} (${top_region_sales:,.2f}).\n")
-    f.write(f"Lowest region by sales: {bottom_region} (${bottom_region_sales:,.2f}).\n")
+# Profit margin summaries (profit as % of sales)
+with open('text_files/profit_margin_summaries.txt', 'w') as f:
+    # Yearly profit margins
+    yearly = df.groupby('Year')[['Sales', 'Profit']].sum()
+    for year, row in yearly.iterrows():
+        margin = (row['Profit'] / row['Sales']) * 100
+        f.write(
+            f"In {year}, across all Superstore transactions, the profit margin was {margin:.1f}% "
+            f"(total sales: ${row['Sales']:,.2f}, total profit: ${row['Profit']:,.2f}).\n"
+        )
 
-    region_profit = df.groupby('Region')['Profit'].sum()
-    top_region_profit = region_profit.idxmax()
-    top_region_profit_val = region_profit.max()
-    bottom_region_profit = region_profit.idxmin()
-    bottom_region_profit_val = region_profit.min()
-    f.write(f"Top region by profit: {top_region_profit} (${top_region_profit_val:,.2f}).\n")
-    f.write(f"Lowest profit region: {bottom_region_profit} (${bottom_region_profit_val:,.2f}).\n")
+    f.write('\n')
+
+    # Category profit margins
+    cat = df.groupby('Category')[['Sales', 'Profit']].sum()
+    for category, row in cat.iterrows():
+        margin = (row['Profit'] / row['Sales']) * 100
+        f.write(
+            f"From 2014 to 2017, the {category} category had a profit margin of {margin:.1f}% "
+            f"(sales: ${row['Sales']:,.2f}, profit: ${row['Profit']:,.2f}).\n"
+        )
+
+    f.write('\n')
+
+    # Sub-category profit margins, sorted highest to lowest
+    subcat = df.groupby(['Category', 'Sub-Category'])[['Sales', 'Profit']].sum()
+    subcat['Margin'] = (subcat['Profit'] / subcat['Sales']) * 100
+    subcat_sorted = subcat.sort_values('Margin', ascending=False)
+    for (category, sub_category), row in subcat_sorted.iterrows():
+        f.write(
+            f"From 2014 to 2017, in the {category} category, subcategory {sub_category} had a profit margin of "
+            f"{row['Margin']:.1f}% (total sales: ${row['Sales']:,.2f}, total profit: ${row['Profit']:,.2f}).\n"
+        )
+
+# Category-by-year breakdown
+with open('text_files/category_year_summaries.txt', 'w') as f:
+    cat_year = df.groupby(['Year', 'Category'])[['Sales', 'Profit']].sum()
+    for (year, category), row in cat_year.iterrows():
+        margin = (row['Profit'] / row['Sales']) * 100
+        f.write(
+            f"In {year}, the {category} category had sales of ${row['Sales']:,.2f}, "
+            f"profit of ${row['Profit']:,.2f}, and a profit margin of {margin:.1f}%.\n"
+        )
+
+# Seasonal patterns (average sales by month name across all years)
+MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June',
+               'July', 'August', 'September', 'October', 'November', 'December']
+
+with open('text_files/seasonal_summaries.txt', 'w') as f:
+    seasonal = df.groupby('Month')[['Sales', 'Profit']].mean()
+    for month_num, row in seasonal.iterrows():
+        month_name = MONTH_NAMES[month_num - 1]
+        f.write(
+            f"On average across all years, {month_name} has monthly sales of "
+            f"${row['Sales']:,.2f} and monthly profit of ${row['Profit']:,.2f}.\n"
+        )

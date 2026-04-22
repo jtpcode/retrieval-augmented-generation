@@ -1,0 +1,12 @@
+In 2014, the Furniture category had sales of $157,192.85, profit of $5,457.73, and a profit margin of 3.5%.
+In 2014, the Office Supplies category had sales of $151,776.41, profit of $22,593.42, and a profit margin of 14.9%.
+In 2014, the Technology category had sales of $175,278.23, profit of $21,492.83, and a profit margin of 12.3%.
+In 2015, the Furniture category had sales of $170,518.24, profit of $3,015.20, and a profit margin of 1.8%.
+In 2015, the Office Supplies category had sales of $137,233.46, profit of $25,099.53, and a profit margin of 18.3%.
+In 2015, the Technology category had sales of $162,780.81, profit of $33,503.87, and a profit margin of 20.6%.
+In 2016, the Furniture category had sales of $198,901.44, profit of $6,959.95, and a profit margin of 3.5%.
+In 2016, the Office Supplies category had sales of $183,939.98, profit of $35,061.23, and a profit margin of 19.1%.
+In 2016, the Technology category had sales of $226,364.18, profit of $39,773.99, and a profit margin of 17.6%.
+In 2017, the Furniture category had sales of $215,387.27, profit of $3,018.39, and a profit margin of 1.4%.
+In 2017, the Office Supplies category had sales of $246,097.17, profit of $39,736.62, and a profit margin of 16.1%.
+In 2017, the Technology category had sales of $271,730.81, profit of $50,684.26, and a profit margin of 18.7%.

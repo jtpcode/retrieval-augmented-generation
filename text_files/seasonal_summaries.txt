@@ -1,0 +1,12 @@
+On average across all years, January has monthly sales of $249.15 and monthly profit of $23.97.
+On average across all years, February has monthly sales of $199.17 and monthly profit of $34.32.
+On average across all years, March has monthly sales of $294.55 and monthly profit of $41.08.
+On average across all years, April has monthly sales of $206.23 and monthly profit of $17.35.
+On average across all years, May has monthly sales of $210.92 and monthly profit of $30.49.
+On average across all years, June has monthly sales of $213.00 and monthly profit of $29.69.
+On average across all years, July has monthly sales of $207.38 and monthly profit of $19.48.
+On average across all years, August has monthly sales of $225.27 and monthly profit of $30.85.
+On average across all years, September has monthly sales of $222.45 and monthly profit of $26.65.
+On average across all years, October has monthly sales of $244.59 and monthly profit of $38.81.
+On average across all years, November has monthly sales of $239.61 and monthly profit of $24.11.
+On average across all years, December has monthly sales of $231.03 and monthly profit of $30.80.

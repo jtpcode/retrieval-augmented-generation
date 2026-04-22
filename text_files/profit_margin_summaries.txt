@@ -1,0 +1,26 @@
+In 2014, across all Superstore transactions, the profit margin was 10.2% (total sales: $484,247.50, total profit: $49,543.97).
+In 2015, across all Superstore transactions, the profit margin was 13.1% (total sales: $470,532.51, total profit: $61,618.60).
+In 2016, across all Superstore transactions, the profit margin was 13.4% (total sales: $609,205.60, total profit: $81,795.17).
+In 2017, across all Superstore transactions, the profit margin was 12.7% (total sales: $733,215.26, total profit: $93,439.27).
+
+From 2014 to 2017, the Furniture category had a profit margin of 2.5% (sales: $741,999.80, profit: $18,451.27).
+From 2014 to 2017, the Office Supplies category had a profit margin of 17.0% (sales: $719,047.03, profit: $122,490.80).
+From 2014 to 2017, the Technology category had a profit margin of 17.4% (sales: $836,154.03, profit: $145,454.95).
+
+From 2014 to 2017, in the Office Supplies category, subcategory Labels had a profit margin of 44.4% (total sales: $12,486.31, total profit: $5,546.25).
+From 2014 to 2017, in the Office Supplies category, subcategory Paper had a profit margin of 43.4% (total sales: $78,479.21, total profit: $34,053.57).
+From 2014 to 2017, in the Office Supplies category, subcategory Envelopes had a profit margin of 42.3% (total sales: $16,476.40, total profit: $6,964.18).
+From 2014 to 2017, in the Technology category, subcategory Copiers had a profit margin of 37.2% (total sales: $149,528.03, total profit: $55,617.82).
+From 2014 to 2017, in the Office Supplies category, subcategory Fasteners had a profit margin of 31.4% (total sales: $3,024.28, total profit: $949.52).
+From 2014 to 2017, in the Technology category, subcategory Accessories had a profit margin of 25.1% (total sales: $167,380.32, total profit: $41,936.64).
+From 2014 to 2017, in the Office Supplies category, subcategory Art had a profit margin of 24.1% (total sales: $27,118.79, total profit: $6,527.79).
+From 2014 to 2017, in the Office Supplies category, subcategory Appliances had a profit margin of 16.9% (total sales: $107,532.16, total profit: $18,138.01).
+From 2014 to 2017, in the Office Supplies category, subcategory Binders had a profit margin of 14.9% (total sales: $203,412.73, total profit: $30,221.76).
+From 2014 to 2017, in the Furniture category, subcategory Furnishings had a profit margin of 14.2% (total sales: $91,705.16, total profit: $13,059.14).
+From 2014 to 2017, in the Technology category, subcategory Phones had a profit margin of 13.5% (total sales: $330,007.05, total profit: $44,515.73).
+From 2014 to 2017, in the Office Supplies category, subcategory Storage had a profit margin of 9.5% (total sales: $223,843.61, total profit: $21,278.83).
+From 2014 to 2017, in the Furniture category, subcategory Chairs had a profit margin of 8.1% (total sales: $328,449.10, total profit: $26,590.17).
+From 2014 to 2017, in the Technology category, subcategory Machines had a profit margin of 1.8% (total sales: $189,238.63, total profit: $3,384.76).
+From 2014 to 2017, in the Office Supplies category, subcategory Supplies had a profit margin of -2.5% (total sales: $46,673.54, total profit: $-1,189.10).
+From 2014 to 2017, in the Furniture category, subcategory Bookcases had a profit margin of -3.0% (total sales: $114,880.00, total profit: $-3,472.56).
+From 2014 to 2017, in the Furniture category, subcategory Tables had a profit margin of -8.6% (total sales: $206,965.53, total profit: $-17,725.48).

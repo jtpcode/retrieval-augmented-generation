@@ -210,3 +210,4 @@ __marimo__/
 # Other
 .python-version
 chroma_db/
+temp/

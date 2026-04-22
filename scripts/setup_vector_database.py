@@ -2,6 +2,7 @@ import re
 import chromadb
 from sentence_transformers import SentenceTransformer
 from pathlib import Path
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -23,71 +24,58 @@ MONTHS = (
 )
 
 
-def extract_metadata_from_line(line, source):
+def extract_metadata_from_chunk(chunk, source):
     meta = {"source": source}
 
-    # Year
-    if m := re.search(r'\b(201[4-7])\b', line):
-        meta["year"] = int(m.group(1))
+    # Year - all unique years in the chunk, sorted
+    years = sorted(set(re.findall(r'\b(201[4-7])\b', chunk)))
+    if years:
+        meta["year"] = ", ".join(years)
 
-    # Month
-    if m := re.search(MONTHS, line):
-        meta["month"] = m.group(0)
+    # Month - all unique months in order of appearance
+    months = list(dict.fromkeys(re.findall(MONTHS, chunk)))
+    if months:
+        meta["month"] = ", ".join(months)
 
-    # Category
-    if m := re.search(r'\b(Furniture|Office Supplies|Technology)\b', line, re.IGNORECASE):
-        meta["category"] = m.group(1)
+    # Category - all unique categories in order of appearance
+    categories = list(dict.fromkeys(re.findall(r'\b(Furniture|Office Supplies|Technology)\b', chunk, re.IGNORECASE)))
+    if categories:
+        meta["category"] = ", ".join(categories)
 
-    # Sub-category: transactions end with ")", summaries end with ","
-    if m := re.search(r'subcategory ([\w][\w ]+?)[),]', line):
-        meta["sub_category"] = m.group(1)
+    # Sub-category - all unique sub-categories in order of appearance
+    sub_cats = list(dict.fromkeys(re.findall(r'subcategory ([\w][\w ]+?)[),]', chunk)))
+    if sub_cats:
+        meta["sub_category"] = ", ".join(sub_cats)
 
-    # Region
-    if m := re.search(r'\b(Central|East|South|West)\b region', line, re.IGNORECASE):
-        meta["region"] = m.group(1)
-
-    # City and State from transaction lines: "from CITY, STATE (REGION region)"
-    if m := re.search(r'from ([A-Za-z ]+), ([A-Za-z ]+?) \((?:Central|East|South|West) region\)', line):
-        meta["city"] = m.group(1).strip()
-        meta["state"] = m.group(2).strip()
-    # State from state_summaries.txt: "In STATE state,"
-    if m := re.search(r'In ([A-Z][a-zA-Z ]+) state,', line):
-        meta["state"] = m.group(1)
-    # City from city_summaries.txt: "In CITY city,"
-    if m := re.search(r'In ([A-Z][a-zA-Z ]+) city,', line):
-        meta["city"] = m.group(1)
-
-    # Sales: "sales were $X", "sales of $X", "Sales: $X"
-    if m := re.search(r'[Ss]ales(?:: |\s+(?:were|of)\s+)\$([\d,]+\.?\d*)', line):
-        meta["sales"] = float(m.group(1).replace(",", ""))
-
-    # Profit: "profit was $X", "profit of $X", "profit: $X"
-    if m := re.search(r'[Pp]rofit(?:: |\s+(?:was|of)\s+)\$([\d,]+\.?\d*)', line):
-        meta["profit"] = float(m.group(1).replace(",", ""))
-
-    # Loss: "loss was $X", "loss of $X", "loss: $X"
-    if m := re.search(r'[Ll]oss(?:: |\s+(?:was|of)\s+)\$([\d,]+\.?\d*)', line):
-        meta["loss"] = float(m.group(1).replace(",", ""))
+    # Region - all unique regions in order of appearance
+    regions = list(dict.fromkeys(
+        r.capitalize() for r in re.findall(r'\b(Central|East|South|West)\b region', chunk, re.IGNORECASE)
+    ))
+    if regions:
+        meta["region"] = ", ".join(regions)
 
     return meta
 
 
-# Process all .txt files line by line
-print("Processing text files...")
+
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 100
+
+print("Processing text files with langchain RecursiveCharacterTextSplitter...")
 text_files_dir = Path("text_files")
 all_chunks = []
 all_metadatas = []
 
-for file in text_files_dir.glob("*.txt"):
-    with open(file, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
 
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        all_chunks.append(line)
-        all_metadatas.append(extract_metadata_from_line(line, file.name))
+for file in text_files_dir.glob("*.txt"):
+    text = file.read_text(encoding="utf-8")
+    chunks = splitter.split_text(text)
+    for chunk in chunks:
+        chunk = chunk.strip()
+        if chunk:
+            all_chunks.append(chunk)
+            all_metadatas.append(extract_metadata_from_chunk(chunk, file.name))
 
 print(f"Total chunks created: {len(all_chunks)}")
 

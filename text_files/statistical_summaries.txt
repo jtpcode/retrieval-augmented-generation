@@ -7,25 +7,77 @@ In 2015, the overall profit was $61,618.60.
 In 2016, the overall profit was $81,795.17.
 In 2017, the overall profit was $93,439.27.
 
-Overall mean sales: $229.86, median sales: $54.49.
-Overall mean profit: $28.66, median profit: $8.67.
+Top 5 products by sales:
+  Canon imageCLASS 2200 Advanced Copier: $61,599.82
+  Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind: $27,453.38
+  Cisco TelePresence System EX90 Videoconferencing Unit: $22,638.48
+  HON 5400 Series Task Chairs for Big and Tall: $21,870.58
+  GBC DocuBind TL300 Electric Binding System: $19,823.48
+Lowest 5 products by sales:
+  Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac: $1.62
+  Avery 5: $5.76
+  Xerox 20: $6.48
+  Grip Seal Envelopes: $7.07
+  Avery Hi-Liter Pen Style Six-Color Fluorescent Set: $7.70
+Top 5 products by profit:
+  Canon imageCLASS 2200 Advanced Copier: $25,199.93
+  Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind: $7,753.04
+  Hewlett Packard LaserJet 3310 Copier: $6,983.88
+  Canon PC1060 Personal Laser Copier: $4,570.93
+  HP Designjet T520 Inkjet Large Format Printer - 24" Color: $4,094.98
+Lowest 5 products by profit:
+  Cubify CubeX 3D Printer Double Head Print: $-8,879.97
+  Lexmark MX611dhe Monochrome Laser Printer: $-4,589.97
+  Cubify CubeX 3D Printer Triple Head Print: $-3,839.99
+  Chromcraft Bull-Nose Wood Oval Conference Tables & Bases: $-2,876.12
+  Bush Advantage Collection Racetrack Conference Table: $-1,934.40
 
-Top product by sales: Canon imageCLASS 2200 Advanced Copier ($61,599.82).
-Lowest selling product: Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac ($1.62).
-Top product by profit: Canon imageCLASS 2200 Advanced Copier ($25,199.93).
-Lowest profit product: Cubify CubeX 3D Printer Double Head Print ($-8,879.97).
+Top 5 cities by sales:
+  New York City: $256,368.16
+  Los Angeles: $175,851.34
+  Seattle: $119,540.74
+  San Francisco: $112,669.09
+  Philadelphia: $109,077.01
+Lowest 5 cities by sales:
+  Abilene: $1.39
+  Elyria: $1.82
+  Jupiter: $2.06
+  Pensacola: $2.21
+  Ormond Beach: $2.81
+Top 5 cities by profit:
+  New York City: $62,036.98
+  Los Angeles: $30,440.76
+  Seattle: $29,156.10
+  San Francisco: $17,507.39
+  Detroit: $13,181.79
+Lowest 5 cities by profit:
+  Philadelphia: $-13,837.77
+  Houston: $-10,153.55
+  San Antonio: $-7,299.05
+  Lancaster: $-7,239.07
+  Chicago: $-6,654.57
 
-Top city by sales: New York City ($256,368.16).
-Lowest city by sales: Abilene ($1.39).
-Top city by profit: New York City ($62,036.98).
-Lowest profit city: Philadelphia ($-13,837.77).
-
-Top state by sales: California ($457,687.63).
-Lowest state by sales: North Dakota ($919.91).
-Top state by profit: California ($76,381.39).
-Lowest profit state: Texas ($-25,729.36).
-
-Top region by sales: West ($725,457.82).
-Lowest region by sales: South ($391,721.91).
-Top region by profit: West ($108,418.45).
-Lowest profit region: Central ($39,706.36).
+Top 5 states by sales:
+  California: $457,687.63
+  New York: $310,876.27
+  Texas: $170,188.05
+  Washington: $138,641.27
+  Pennsylvania: $116,511.91
+Lowest 5 states by sales:
+  North Dakota: $919.91
+  West Virginia: $1,209.82
+  Maine: $1,270.53
+  South Dakota: $1,315.56
+  Wyoming: $1,603.14
+Top 5 states by profit:
+  California: $76,381.39
+  New York: $74,038.55
+  Washington: $33,402.65
+  Michigan: $24,463.19
+  Virginia: $18,597.95
+Lowest 5 states by profit:
+  Texas: $-25,729.36
+  Ohio: $-16,971.38
+  Pennsylvania: $-15,559.96
+  Illinois: $-12,607.89
+  North Carolina: $-7,490.91
