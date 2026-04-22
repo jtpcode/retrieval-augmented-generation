@@ -133,6 +133,7 @@ df['Year'] = df['Order Date'].dt.year
 df['Month'] = df['Order Date'].dt.month
 
 with open('text_files/statistical_summaries.txt', 'w') as f:
+    # Yearly totals
     yearly_sales = df.groupby('Year')['Sales'].sum()
     for year, sales in yearly_sales.items():
         f.write(f"In {year}, the total sales were ${sales:,.2f}.\n")
@@ -140,3 +141,79 @@ with open('text_files/statistical_summaries.txt', 'w') as f:
     yearly_profit = df.groupby('Year')['Profit'].sum()
     for year, profit in yearly_profit.items():
         f.write(f"In {year}, the overall {'profit' if profit >= 0 else 'loss'} was ${abs(profit):,.2f}.\n")
+
+    # Means and medians
+    mean_sales = df['Sales'].mean()
+    median_sales = df['Sales'].median()
+    mean_profit = df['Profit'].mean()
+    median_profit = df['Profit'].median()
+    f.write(f"\nOverall mean sales: ${mean_sales:,.2f}, median sales: ${median_sales:,.2f}.\n")
+    f.write(f"Overall mean profit: ${mean_profit:,.2f}, median profit: ${median_profit:,.2f}.\n")
+
+    # Top/bottom performers - Products
+    product_sales = df.groupby('Product Name')['Sales'].sum()
+    top_product = product_sales.idxmax()
+    top_product_sales = product_sales.max()
+    bottom_product = product_sales.idxmin()
+    bottom_product_sales = product_sales.min()
+    f.write(f"\nTop product by sales: {top_product} (${top_product_sales:,.2f}).\n")
+    f.write(f"Lowest selling product: {bottom_product} (${bottom_product_sales:,.2f}).\n")
+
+    product_profit = df.groupby('Product Name')['Profit'].sum()
+    top_product_profit = product_profit.idxmax()
+    top_product_profit_val = product_profit.max()
+    bottom_product_profit = product_profit.idxmin()
+    bottom_product_profit_val = product_profit.min()
+    f.write(f"Top product by profit: {top_product_profit} (${top_product_profit_val:,.2f}).\n")
+    f.write(f"Lowest profit product: {bottom_product_profit} (${bottom_product_profit_val:,.2f}).\n")
+
+    # Top/bottom performers - Cities
+    city_sales = df.groupby('City')['Sales'].sum()
+    top_city = city_sales.idxmax()
+    top_city_sales = city_sales.max()
+    bottom_city = city_sales.idxmin()
+    bottom_city_sales = city_sales.min()
+    f.write(f"\nTop city by sales: {top_city} (${top_city_sales:,.2f}).\n")
+    f.write(f"Lowest city by sales: {bottom_city} (${bottom_city_sales:,.2f}).\n")
+
+    city_profit = df.groupby('City')['Profit'].sum()
+    top_city_profit = city_profit.idxmax()
+    top_city_profit_val = city_profit.max()
+    bottom_city_profit = city_profit.idxmin()
+    bottom_city_profit_val = city_profit.min()
+    f.write(f"Top city by profit: {top_city_profit} (${top_city_profit_val:,.2f}).\n")
+    f.write(f"Lowest profit city: {bottom_city_profit} (${bottom_city_profit_val:,.2f}).\n")
+
+    # Top/bottom performers - States
+    state_sales = df.groupby('State')['Sales'].sum()
+    top_state = state_sales.idxmax()
+    top_state_sales = state_sales.max()
+    bottom_state = state_sales.idxmin()
+    bottom_state_sales = state_sales.min()
+    f.write(f"\nTop state by sales: {top_state} (${top_state_sales:,.2f}).\n")
+    f.write(f"Lowest state by sales: {bottom_state} (${bottom_state_sales:,.2f}).\n")
+
+    state_profit = df.groupby('State')['Profit'].sum()
+    top_state_profit = state_profit.idxmax()
+    top_state_profit_val = state_profit.max()
+    bottom_state_profit = state_profit.idxmin()
+    bottom_state_profit_val = state_profit.min()
+    f.write(f"Top state by profit: {top_state_profit} (${top_state_profit_val:,.2f}).\n")
+    f.write(f"Lowest profit state: {bottom_state_profit} (${bottom_state_profit_val:,.2f}).\n")
+
+    # Top/bottom performers - Regions
+    region_sales = df.groupby('Region')['Sales'].sum()
+    top_region = region_sales.idxmax()
+    top_region_sales = region_sales.max()
+    bottom_region = region_sales.idxmin()
+    bottom_region_sales = region_sales.min()
+    f.write(f"\nTop region by sales: {top_region} (${top_region_sales:,.2f}).\n")
+    f.write(f"Lowest region by sales: {bottom_region} (${bottom_region_sales:,.2f}).\n")
+
+    region_profit = df.groupby('Region')['Profit'].sum()
+    top_region_profit = region_profit.idxmax()
+    top_region_profit_val = region_profit.max()
+    bottom_region_profit = region_profit.idxmin()
+    bottom_region_profit_val = region_profit.min()
+    f.write(f"Top region by profit: {top_region_profit} (${top_region_profit_val:,.2f}).\n")
+    f.write(f"Lowest profit region: {bottom_region_profit} (${bottom_region_profit_val:,.2f}).\n")

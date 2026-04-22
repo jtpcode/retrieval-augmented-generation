@@ -7,6 +7,14 @@ embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # ChromaDB setup
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
+
+# Safely delete the collection if it already exists, for example if you updated the text files
+# and run this script again.
+try:
+    chroma_client.delete_collection(name="superstore_sales")
+except ValueError:
+    pass  # The collection doesn't exist yet in the first run
+
 collection = chroma_client.get_or_create_collection(name="superstore_sales")
 
 MONTHS = (

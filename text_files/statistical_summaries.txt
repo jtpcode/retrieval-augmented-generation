@@ -6,3 +6,26 @@ In 2014, the overall profit was $49,543.97.
 In 2015, the overall profit was $61,618.60.
 In 2016, the overall profit was $81,795.17.
 In 2017, the overall profit was $93,439.27.
+
+Overall mean sales: $229.86, median sales: $54.49.
+Overall mean profit: $28.66, median profit: $8.67.
+
+Top product by sales: Canon imageCLASS 2200 Advanced Copier ($61,599.82).
+Lowest selling product: Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac ($1.62).
+Top product by profit: Canon imageCLASS 2200 Advanced Copier ($25,199.93).
+Lowest profit product: Cubify CubeX 3D Printer Double Head Print ($-8,879.97).
+
+Top city by sales: New York City ($256,368.16).
+Lowest city by sales: Abilene ($1.39).
+Top city by profit: New York City ($62,036.98).
+Lowest profit city: Philadelphia ($-13,837.77).
+
+Top state by sales: California ($457,687.63).
+Lowest state by sales: North Dakota ($919.91).
+Top state by profit: California ($76,381.39).
+Lowest profit state: Texas ($-25,729.36).
+
+Top region by sales: West ($725,457.82).
+Lowest region by sales: South ($391,721.91).
+Top region by profit: West ($108,418.45).
+Lowest profit region: Central ($39,706.36).
