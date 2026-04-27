@@ -35,3 +35,35 @@ You can check https://ollama.com/download/linux for details. Then pull the requi
 ```bash
 ollama pull llama3.2:3b
 ```
+
+## How to Use
+
+### 1. Prepare the Data
+
+Convert the Superstore CSV into natural language summaries and sentences:
+
+```bash
+python scripts/convert_csv_into_natural_language.py
+```
+
+This will generate text files in the `text_files/` directory.
+
+### 2. Build the Vector Database
+
+Process the text files and populate ChromaDB with embeddings:
+
+```bash
+python scripts/setup_vector_database.py
+```
+
+This step may take a few minutes.
+
+### 3. Run the RAG Pipeline
+
+Start the interactive Retrieval-Augmented Generation system:
+
+```bash
+python scripts/rag_pipeline.py
+```
+
+You can now type analytical questions (e.g., "Which region had the highest profit in 2016?") and get data-driven answers from the LLM, with references to the underlying data.

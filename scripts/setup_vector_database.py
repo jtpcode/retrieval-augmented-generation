@@ -27,27 +27,27 @@ MONTHS = (
 def extract_metadata_from_chunk(chunk, source):
     meta = {"source": source}
 
-    # Year - all unique years in the chunk, sorted
+    # Year: all unique years in the chunk, sorted
     years = sorted(set(re.findall(r'\b(201[4-7])\b', chunk)))
     if years:
         meta["year"] = ", ".join(years)
 
-    # Month - all unique months in order of appearance
+    # Month: all unique months in order of appearance
     months = list(dict.fromkeys(re.findall(MONTHS, chunk)))
     if months:
         meta["month"] = ", ".join(months)
 
-    # Category - all unique categories in order of appearance
+    # Category: all unique categories in order of appearance
     categories = list(dict.fromkeys(re.findall(r'\b(Furniture|Office Supplies|Technology)\b', chunk, re.IGNORECASE)))
     if categories:
         meta["category"] = ", ".join(categories)
 
-    # Sub-category - all unique sub-categories in order of appearance
+    # Sub-category: all unique sub-categories in order of appearance
     sub_cats = list(dict.fromkeys(re.findall(r'subcategory ([\w][\w ]+?)[),]', chunk)))
     if sub_cats:
         meta["sub_category"] = ", ".join(sub_cats)
 
-    # Region - all unique regions in order of appearance
+    # Region: all unique regions in order of appearance
     regions = list(dict.fromkeys(
         r.capitalize() for r in re.findall(r'\b(Central|East|South|West)\b region', chunk, re.IGNORECASE)
     ))
@@ -59,15 +59,16 @@ def extract_metadata_from_chunk(chunk, source):
 
 
 CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 100
+CHUNK_OVERLAP = 200
 
-print("Processing text files with langchain RecursiveCharacterTextSplitter...")
+print("Processing text files with langchain...")
 text_files_dir = Path("text_files")
 all_chunks = []
 all_metadatas = []
 
 splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
 
+# Process each text file, split into chunks, and extract metadata
 for file in text_files_dir.glob("*.txt"):
     text = file.read_text(encoding="utf-8")
     chunks = splitter.split_text(text)
@@ -91,7 +92,7 @@ embeddings = embedding_model.encode(all_chunks, show_progress_bar=True).tolist()
 # NOTE: The order of ids, documents, embeddings, and metadatas match because they are all based on the order of 'all_chunks',
 # so they are correctly associated with each other when upserting into ChromaDB.
 
-# NOTE: ChromaDB has a batch size limit of 5461
+# NOTE: ChromaDB has a batch size limit of 5461, which is relevant with small chunk size.
 batch_size = 5000
 print("Upserting into ChromaDB in batches...")
 

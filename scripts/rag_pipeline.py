@@ -9,9 +9,8 @@ CHROMA_PATH = "./chroma_db"
 COLLECTION_NAME = "superstore_sales"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 OLLAMA_MODEL = "llama3.2:3b"
-TOP_K = 8          # Number of chunks to retrieve per query
+TOP_K = 8           # Number of chunks to retrieve per query
 MMR_LAMBDA = 0.5    # Balance between relevance (1.0) and diversity (0.0)
-MAX_HISTORY_TURNS = 5  # Number of conversational turns to keep in memory
 
 chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
 collection = chroma_client.get_collection(name=COLLECTION_NAME)
@@ -59,7 +58,7 @@ def extract_metadata_filters(query):
 
 
 def _cosine_similarity(a, b):
-    #Compute cosine similarity between two vectors.
+    # Compute cosine similarity between two vectors.
     a_arr, b_arr = np.array(a), np.array(b)
     denom = np.linalg.norm(a_arr) * np.linalg.norm(b_arr)
     return float(np.dot(a_arr, b_arr) / denom) if denom > 0 else 0.0
@@ -102,6 +101,8 @@ def _apply_mmr(
         selected_embeddings.append(candidate_embeddings[best_idx])
         remaining.remove(best_idx)
 
+    # Example of a returned chunk:
+    # {"document": "chunk text", "metadata": {"year": "2016", "region": "Central"}, "distance": 0.123}
     return [
         {"document": candidate_docs[i], "metadata": candidate_metas[i], "distance": 0.0}
         for i in selected_indices
@@ -110,7 +111,6 @@ def _apply_mmr(
 
 def retrieve_context(query, top_k = TOP_K):
     """
-    Retrieves diverse, relevant chunks via metadata filtering + MMR:
       1. Extract metadata filters from the query (year, region, category, month, sub-category).
       2. Fetch a larger candidate pool via filtered similarity search.
       3. Fall back to unfiltered search if the filter yields no results.
@@ -123,8 +123,10 @@ def retrieve_context(query, top_k = TOP_K):
     if len(filters) == 1:
         where = filters
     elif len(filters) > 1:
+        # For multiple filters, we combine them with $and to ensure all conditions are met
         where = {"$and": [{k: v} for k, v in filters.items()]}
 
+    # Retrieve more candidates than top_k to allow MMR to have a wide enough selection pool.
     n_candidates = min(top_k * 4, collection.count())
 
     if where:
@@ -134,6 +136,7 @@ def retrieve_context(query, top_k = TOP_K):
             where=where,
             include=["documents", "metadatas", "embeddings"],
         )
+        # If the filtered query returns no documents, fall back to unfiltered query
         if not results["documents"][0]:
             where = None
 
@@ -173,6 +176,7 @@ def build_messages(
     )
 
     # Format retrieved chunks with index and metadata tags
+    # Example of a chunk as a line: [1] [year=2016, region=Central, category=Furniture] chunk text...
     context_lines = []
     for i, chunk in enumerate(chunks, 1):
         meta_parts = []
@@ -181,7 +185,6 @@ def build_messages(
                 meta_parts.append(f"{key}={chunk['metadata'][key]}")
         meta_tag = f" [{', '.join(meta_parts)}]" if meta_parts else ""
         context_lines.append(f"[{i}]{meta_tag} {chunk['document']}")
-
 
     context_block = "\n".join(context_lines)
 
