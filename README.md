@@ -63,7 +63,7 @@ This step may take a few minutes.
 Start the interactive Retrieval-Augmented Generation system:
 
 ```bash
-python scripts/rag_pipeline.py
+python rag_pipeline.py
 ```
 
 You can now type analytical questions (e.g., "Which region had the highest profit in 2016?") and get data-driven answers from the LLM, with references to the underlying data.
